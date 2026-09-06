@@ -31,9 +31,9 @@ announce the details of the update carried out on September 2.
 
 ### Items
 
-**Items > Radiant Mushin's Soul Core**
+**Items > Legendary Mushin's Soul Core**
 - Fixed an issue where the "Burning Soul Core Equipment Effect Change Ticket"
-  couldn't be used on +1–+5 Radiant Mushin's Soul Cores.
+  couldn't be used on +1–+5 Legendary Mushin's Soul Cores.
 
 **Items > Soul Badge**
 - Added a note about costume disassembly to the Bloodshade Soul Badge's
