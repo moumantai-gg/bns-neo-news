@@ -5,17 +5,18 @@ announcements.
 
 ## What goes here
 
-Translated official patch/update and event notices, filed flat at the repo root, named:
+Translated official patch/update and event notices, split by category, then dated within:
 
 ```
-YYYY-MM-DD-update-notice.md   # official patch notes (neoupdate/neonotice board)
-YYYY-MM-DD-event-notice.md    # periodic event/shop/costume roundups (neonews board)
+update/YYYY-MM-DD-update-notice.md   # official patch notes (neoupdate/neonotice board)
+event/YYYY-MM-DD-event-notice.md     # periodic event/shop/costume roundups (neonews board)
 ```
 
-Mirrors the naming convention used by [bns-neo](https://github.com/moumantai-gg/bns-neo)'s
-in-app news feed, which is where these are sourced from. GitHub's file listing sorts by name,
-so this keeps everything chronological without needing subfolders. If this grows large enough
-that the root listing gets unwieldy, we'll split into year folders at that point.
+Filenames mirror the naming convention used by [bns-neo](https://github.com/moumantai-gg/bns-neo)'s
+in-app news feed, which is where these are sourced from — no renaming needed when copying a
+new one over. Within each category folder, filenames sort chronologically by name. If a
+category grows large enough that its listing gets unwieldy, we'll split further into year
+folders at that point.
 
 ## Scope
 
