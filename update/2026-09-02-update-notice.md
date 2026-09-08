@@ -44,11 +44,11 @@ announce the details of the update carried out on September 2.
   list.
 - Added Repair Tool to the "Cheolmubang" (철무방, lit. "Iron Martial Hall")
   weapon merchant's sell list.
-
+  
 **Items > Enhancement**
 - Added an enhancement recipe for Bound Gold Line Weapons using "Hangamaeng's
   Gold Line Weapon Enhancement Stone (~+3)."
-
+  
 ### Combat / Martial Arts
 
 **Class — Destroyer**
@@ -56,7 +56,7 @@ announce the details of the update carried out on September 2.
   granting its "restore 20 Focus on Critical Hit" effect.
 - Fixed an issue where Fury stacks would build up when the
   Desert/Moonwater/Virtuous-tier Mystic Badge's "Emberstomp" effect applied.
-- Fixed an issue where, with "Celestial Thunder" (천뇌옥) inherited, the
+  - Fixed an issue where, with "Celestial Thunder" (천뇌옥) inherited, the
   Desert/Moonwater/Virtuous-tier Mystic Badge's "Mighty Cleave" effect would
   trigger Celestial Thunder without a Fury charge.
 
@@ -64,7 +64,8 @@ announce the details of the update carried out on September 2.
 - Fixed an issue where Fury stacks would build up when the
   Desert/Moonwater/Virtuous-tier Mystic Badge's cooldown-reduction effects on
   "Wingstorm" and "Hex Storm" applied.
-
+  
+  
 **Class — Flame Warden**
 - Fixed the Skill Guide UI showing the acquisition level for "Sear Step" as
   level 18.
@@ -135,7 +136,7 @@ announce the details of the update carried out on September 2.
 - Changed so, after applying, the "Cancel Transfer" icon at the bottom of the
   HUD shows a "Transfer pending to selected server" message.
 
-## Neo Servers (Jin, Lin)
+## Neo Servers (Jin, Lyn)
 
 **Events**
 
