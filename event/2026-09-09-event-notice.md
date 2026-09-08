@@ -100,7 +100,7 @@ Server after passing through the Boost Server receive a special growth gift.
 | Reach highest Supreme Force 32,500 after transfer | Premium Dawncrest Portrait Box (Legendary) | 1 |
 | Reach highest Supreme Force 32,500 after transfer | Sagewood Soul Shield Box | 1 |
 
-## 4. [Specialization Server — Geum] Autumn Fortune Box
+## 4. [Specialization Server — Gold] Autumn Fortune Box
 
 Meet today's fortune! A special box has arrived!
 
@@ -210,7 +210,7 @@ a variety of growth items!
 **After the September 9 (Wed) regular maintenance – before the October 7
 (Wed) regular maintenance**
 
-**NEO Server (Jin, Lin) / Specialization Server (Geum)** — purchasable up to
+**NEO Server (Jin, Lin) / Specialization Server (Gold)** — purchasable up to
 2× per account: Leap Special Pass Ticket / Specialization Leap Special Pass
 Ticket
 *Purchasable through the BnS Shop (F10).*
