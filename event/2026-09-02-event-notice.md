@@ -130,9 +130,7 @@ variety of growth items.
 
 *We've also prepared growth items purchasable with Gold even without Soaring
 Spirit.* (The Specialization server's name, 금, is also the word for "Gold" —
-per user (2026-09-09), probably an intentional pun in the original, and this
-doc now settles on "Gold" as the translated server name rather than the
-earlier romanization "Geum" — see kr-en-glossary.md's 특화 서버 / 금 row.)
+the note appears to be a deliberate pun in the original.)
 
 ## 4. [NEO Servers — Jin, Lin] Martial World Journey Costume Box
 
