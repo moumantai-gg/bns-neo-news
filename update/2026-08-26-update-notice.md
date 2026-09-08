@@ -65,7 +65,7 @@ the details of the update carried out on August 26.
   "Raging Yeti Manifestation."
 - Changed the kill reward for floor-3 NPC "Raging Yeti Manifestation."
 
-**Silverfrost Mountains > Hall of the Black Dragon Sect**
+**Silverfrost Mountains > Ebondrake Hall**
 - Fixed an issue where Jaha Demon God's Demonic Energy Projectile would
   occasionally become invisible.
 - Changed the basic attack used by Demonized Zealots.
@@ -143,7 +143,7 @@ the details of the update carried out on August 26.
 - Fixed an issue where, on first login, the server name had to be clicked twice
   before it registered as selected.
 
-## Neo Servers (Jin, Lin)
+## Neo Servers (Jin, Lyn)
 
 **Soul Pass**
 - **NEO Soul Pass ended:** Deprecated 5 items related to the previous season;

@@ -8,7 +8,7 @@ under the **Event / Preview** category for that reason.
 
 ## 1. Boost Plus Settlement Support Box — Special Gift
 
-We've prepared this so you can start playing more comfortably on the Jin/Lin
+We've prepared this so you can start playing more comfortably on the Jin/Lyn
 servers!
 
 If your character's server transfer takes effect after the regular maintenance
@@ -105,7 +105,7 @@ maintenance.*
 Express (비룡공상). Use Soaring Spirit as a material to guaranteed-obtain a
 variety of growth items.
 
-**NEO Servers — Jin, Lin**
+**NEO Servers — Jin, Lyn**
 
 | Soaring Spirit cost | Item | Qty | Exchange limit |
 |---|---|---|---|
@@ -132,7 +132,7 @@ variety of growth items.
 Spirit.* (The Specialization server's name, 금, is also the word for "Gold" —
 the note appears to be a deliberate pun in the original.)
 
-## 4. [NEO Servers — Jin, Lin] Martial World Journey Costume Box
+## 4. [NEO Servers — Jin, Lyn] Martial World Journey Costume Box
 
 A special journey through the scenery of the Martial World! Meet the "Martial
 World Journey Costume Box" for a new adventure.
@@ -164,7 +164,7 @@ Inventory (I) > Dragon Express Exchange menu.
 | 5 | 1 | Ganghoyurang Costume Ornament |
 | 5 | 1 | Ganghoyurang Headpiece |
 
-## 5. [NEO Servers — Jin, Lin] Burning Treasure Chest
+## 5. [NEO Servers — Jin, Lyn] Burning Treasure Chest
 
 Grow even stronger with a special treasure chest for your growth! A new
 transmute list has been added!

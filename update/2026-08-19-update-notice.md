@@ -18,25 +18,26 @@ the details of the update carried out on August 19.
 **Region**
 - Moonlight Meadow (달빛초원) > Common: The **"Chorongcho"** monster spawns in Moonlight Meadow are now replaced by **"Blackwind Society"** (흑풍회) spawns.
 
-**New Hero Dungeon — "Hall of the Black Dragon Sect"**
-- Silverfrost Mountains > Hall of the Black Dragon Sect (흑룡교 전당): Added a new Hero-tier dungeon, the **Hall of the Black Dragon Sect**, in the Gangnyusi region.
+**New Hero Dungeon — "Ebondrake Hall"**
+- Silverfrost Mountains > Ebondrake Hall (흑룡교 전당): Added a new Hero-tier dungeon, the **Ebondrake Hall**, in the Gangnyusi region.
   - *Requires Level 60+ and completion of "Crack in the Martial World Ch. 8: Shadow of the Moon" to enter.*
-
+  
 **New Solo Dungeon — "Darkstorm Training Ground"**
 - Mushin's Hall (무신의 회당) > Darkstorm Training Ground (흑풍수련장): Added a new solo dungeon.
   - *Requires completion of "Crack in the Martial World Ch. 3: Training of the Blackwind Society" to enter.*
 
 **New Class — "Flame Warden" (염제)**
 - Class > Flame Warden: Added the new class.
-  - *Can be created with Jin, Gon, and Lin races.*
+  - *Can be created with Jin, Gon, and Lyn races.*
+  
 
 ## Other Updates
 
 ### Server-wide — Events
 
 - **Pre-Registration Commemorative Gift Reward** (8/19 maint. – before 9/16 maint.): Redeemable once per account.
-- **New & Returning Player Benefit — Welcome Daehyeop Event** (8/19 – 9/16 maint.): Adds a "Welcome Daehyeop" title. Characters with this benefit get +20% EXP on dungeon clears, and extra Challenge Box rewards, for target dungeons (Hwansu Training Ground, Frozen Abandoned Mine, Garden of Meditation, Ashen Windcave, Crimson Sand Ruins, Moonlit Duel Ground, Hall of the Black Dragon Sect). "Infinite Thread" effect lets costume tailoring/dyeing skip Five-Color Thread cost.
-- **"Riotous Passion Sky Park" Event** (8/19 – 9/2 maint.): Travel to the event dungeon from Dawncrest Isle > Myeongyawon. New daily quest via letter. Event currency "Sky Park Coin" exchangeable at NPC merchant Eunbi (Gangnyusi Merchant Guild / Myeongyawon / Mushin's Hall).
+- **New & Returning Player Benefit — Welcome Daehyeop Event** (8/19 – 9/16 maint.): Adds a "Welcome Daehyeop" title. Characters with this benefit get +20% EXP on dungeon clears, and extra Challenge Box rewards, for target dungeons (Hwansu Training Ground, Frozen Abandoned Mine, Garden of Meditation, Ashewind Cave, Red Sand Ruins, Moonrise Tourney Hall, Ebondrake Hall). "Infinite Thread" effect lets costume tailoring/dyeing skip Five-Color Thread cost.
+  - **"Riotous Passion Sky Park" Event** (8/19 – 9/2 maint.): Travel to the event dungeon from Dawncrest Isle > Myeongyawon. New daily quest via letter. Event currency "Sky Park Coin" exchangeable at NPC merchant Eunbi (Gangnyusi Merchant Guild / Myeongyawon / Mushin's Hall).
 - **"Jaha Demon God Field Summon" Event** (8/19 – 9/16 maint.): "Jaha Demon God" spawns at Suspicious Rituals during the event; defeating it drops a special loot item. Spawn location is randomized between Wind Plains and Northern Snowfield in Silverfrost Mountains. Event currency "Blackwind Society Token" exchangeable via the same NPC.
 - **"Naryu Kingdom Treasure Hunt" Event** (8/19 – 9/16 maint.): "Treasure Hunt Key" obtained via "Treasure Hunt Key Pouch" (chance drop from clearing Silverfrost Mountains Highest-tier+ dungeons). Runs twice daily, 4 hours each (10:00–14:00, 19:00–23:00). Event currencies "Naryu Gold Coin"/"Naryu Silver Coin" exchangeable via the same NPC.
 - **(Duplicate-titled) "Naryu Kingdom Treasure Hunt" Event** (8/19 – 9/16 maint.): Travel to event dungeon from Dawncrest Isle > Myeongyawon. Stats are normalized in this dungeon — talismans/seals/mantras (except skill books) don't apply, and skill-mastery damage bonus is also normalized. Event currency "Gijigwan Coin" exchangeable via NPC Eunha.
@@ -137,9 +138,9 @@ the details of the update carried out on August 19.
 
 ### Dungeons
 
-- Removed Hongmoon Blessing (홍문가호) consumption from killing named NPCs in: Labyrinth of Fragmentation: Upper, Hwansu Training Ground, Garden of Meditation, Frozen Abandoned Mine, Ashen Windcave, Crimson Sand Ruins — these NPCs now drop only normal material rewards. Removed Challenge rewards from Labyrinth of Fragmentation: Upper. Changed Dawncrest Isle dungeon Challenge Box contents.
+- Removed Hongmoon Blessing (홍문가호) consumption from killing named NPCs in: Labyrinth of Fragmentation: Upper, Hwansu Training Ground, Garden of Meditation, Frozen Abandoned Mine, Ashewind Cave, Red Sand Ruins — these NPCs now drop only normal material rewards. Removed Challenge rewards from Labyrinth of Fragmentation: Upper. Changed Dawncrest Isle dungeon Challenge Box contents.
 - Silverfrost Mountains: Removed highest-tier-and-below skill books and advanced-tier-and-below seals from Legendary dungeon rewards; added Winterbane Steel/Jade drops to Highest/Hero dungeons; adjusted Winterbane gear drop rates.
-- Dawncrest Isle: Removed highest-tier-and-below skill books / advanced-tier-and-below seals from dungeon rewards; adjusted drop rates for Gold Line gear/materials and White Light gear/materials; removed White Light gear from Ashen Windcave / Crimson Sand Ruins rewards.
+- Dawncrest Isle: Removed highest-tier-and-below skill books / advanced-tier-and-below seals from dungeon rewards; adjusted drop rates for Gold Line gear/materials and White Light gear/materials; removed White Light gear from Ashewind Cave / Red Sand Ruins rewards.
 - **Removed/closed dungeons:** Queen's Altar, Labyrinth of Fragmentation: Lower, Snow Jade Palace of Sorrow: Inner Sanctum, Iron-Blood Training Ground, Tower of Reincarnation — no longer enterable; removed from map, Dragon Pillar teleport, and daily/weekly challenges.
 - Labyrinth of Fragmentation: Upper — resized to solo, start point adjusted, rewards changed.
 - Frenzied Yeti Cave — resized to solo, rewards changed.
@@ -195,13 +196,13 @@ the details of the update carried out on August 19.
 - Skill Manual: revamped to match skill-book overhaul; can distribute enhancement points without completing "Act 1 Ch. 5: Life Savior" quest; HUD notification for available point distribution; shows acquirable level on unlearned skill icons; tooltip shows required skill book; added presets; replaced "Skill Guide" button with "Skill Macro" button.
 - Quest: some quests now display as "appropriate level" regardless of level gap with the character.
 
-## Neo Servers (Jin, Lin)
+## Neo Servers (Jin, Lyn)
 
 **Soul Pass**
 - **NEO Soul Pass** (8/19 – 9/16 maint.): Added 10 items exchangeable with "Soul Pass Black Dragon Coin" at Dragon Express.
 
 **Events**
-- **NEO Attendance Book** (8/19 – 9/16 maint.): Access via Game Menu > Events > Attendance. Rewards collected from Prize Box menu. Jin/Lin-server exclusive (both participation and reward claim). Once per account per day, resets 6:00 AM; 28-day track. Missed days can be made up for 50 Divine Stones each, capped at the current max eligible day.
+- **NEO Attendance Book** (8/19 – 9/16 maint.): Access via Game Menu > Events > Attendance. Rewards collected from Prize Box menu. Jin/Lyn-server exclusive (both participation and reward claim). Once per account per day, resets 6:00 AM; 28-day track. Missed days can be made up for 50 Divine Stones each, capped at the current max eligible day.
 - **Pre-Registration Reward** (8/19 – 9/16 maint.): Once per account.
 - **"Burning Treasure Chest"** (8/19 – 9/16 maint.): Added 14 event items to Dragon Express; added 12 event transmute recipes.
 - **"Martial Butterfly Costume Box"** (8/19 – 9/2 maint.): Added 8 event items to Dragon Express.

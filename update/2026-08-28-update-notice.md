@@ -228,8 +228,8 @@ boost to your continued participation, we'll be distributing supplies for one
 week.
 
 - **Event period:** 2026-08-28 (Fri) 18:00 – 2026-09-04 (Fri) 06:00
-- **Eligible servers:** Jin, Lin (Neo) / Gold (Specialization) / Boost Server
-- **Details:** a daily push notification grants 5 **Base Officer Coin**, claimable
+- **Eligible servers:** Jin, Lyn (Neo) / Gold (Specialization) / Boost Server
+  - **Details:** a daily push notification grants 5 **Base Officer Coin**, claimable
   once per account per push window.
 
 | Push window (KST) |
@@ -289,7 +289,7 @@ mis-transferred character and restore one Boost Server transfer attempt.
 
 **[Boost Plus Settlement Support Box] added after transfer**
 
-To make settling into the Jin/Lin servers smoother, a settlement-support reward
+To make settling into the Jin/Lyn servers smoother, a settlement-support reward
 will be added starting after the September 2 (Wed) regular maintenance:
 
 | Before Sept 2 maintenance | After Sept 2 maintenance |

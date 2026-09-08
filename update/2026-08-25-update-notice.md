@@ -49,8 +49,8 @@ Server period.
   Boost Server period.
 
 **Q. Does the Boost Server give higher dungeon EXP or reward drop rates than the
-Jin/Lin servers?**
-A. Dungeon EXP and rewards are identical between the Boost Server and the Jin/Lin
+Jin/Lyn servers?**
+A. Dungeon EXP and rewards are identical between the Boost Server and the Jin/Lyn
 servers.
 
 **Q. Until when are event-collab Portrait Bonds/Collections valid?**
@@ -58,25 +58,25 @@ A. Usable until the October 28 regular maintenance. After that, any Bonds/Collec
 that used a collab Portrait are removed.
 
 **Q. If I complete an achievement on the Boost Server but don't claim its reward
-before transferring, can I claim it on the Jin/Lin server instead?**
+before transferring, can I claim it on the Jin/Lyn server instead?**
 A. No. An unclaimed achievement reward on the Boost Server is treated as already
 claimed once you transfer, even though you never actually collected it — so it can't
-be claimed on the Jin/Lin server either. Claim your rewards on the Boost Server
+be claimed on the Jin/Lyn server either. Claim your rewards on the Boost Server
 before transferring.
 
-**Q. After transferring to Jin/Lin, can I succession a +10 Bound White Light item
+**Q. After transferring to Jin/Lyn, can I succession a +10 Bound White Light item
 into a tradable Gold Line item?**
 A. No. If you held a +10 Bound White Light item on the Boost Server, it becomes a
-"+10 Boost-Bound White Light item" after the Jin/Lin transfer, and successioning
+"+10 Boost-Bound White Light item" after the Jin/Lyn transfer, and successioning
 that item produces a **Bound Gold Line item**. Bound Gold Line items cannot be
 traded.
 
-| Boost Server | After Jin/Lin transfer | After post-transfer succession |
+| Boost Server | After Jin/Lyn transfer | After post-transfer succession |
 |---|---|---|
 | +10 White Light item | +10 Boost-Bound White Light item | Bound Gold Line item |
 
 *Gold Line items themselves also become Bound Gold Line items when transferred to
-the Jin/Lin server.*
+the Jin/Lyn server.*
 
 **Q. When does server transfer become available?**
 A. The first transfer round runs after the August 26 regular maintenance, with

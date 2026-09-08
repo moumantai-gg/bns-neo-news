@@ -47,7 +47,7 @@ friend, grow together, and enjoy a wealth of benefits!
 |---|---|---|
 | New account | Created after 06:00 on August 19 (Wed), 2026 | Boost Server |
 | Returning account | Last login before 06:00 on July 20 (Mon), 2026 | Boost Server |
-| Existing account | Any account not meeting the New/Returning criteria above | Jin / Lin Server |
+| Existing account | Any account not meeting the New/Returning criteria above | Jin / Lyn Server |
 
 **Reward delivery:** sent to the account by push, sequentially after each
 weekly regular maintenance.
@@ -69,7 +69,7 @@ referrer cannot be changed after submission.*
    - Server: Boost
    - Character: *(enter the submitter's own character name)*
    - Inquiry Title: `[Boost to NEO! +1] Event Participation Request`
-   - Inquiry Details: `(1) Referrer's character server: Jin/Lin` /
+   - Inquiry Details: `(1) Referrer's character server: Jin/Lyn` /
      `(2) Referrer's character name: XXX`
 
 *(Please do not enter personal information such as phone number, address, or
@@ -79,7 +79,7 @@ date of birth when filling in the details.)*
 
 Rewards are granted based on how many new/returning accounts that registered
 you as their referrer graduate from the Boost Server and complete transfer to
-the Jin/Lin Server. Up to 2 characters per account can transfer from the Boost
+the Jin/Lyn Server. Up to 2 characters per account can transfer from the Boost
 Server, but the event count is tallied per account.
 
 | Accounts transferred | Reward | Qty |
@@ -91,12 +91,12 @@ Server, but the event count is tallied per account.
 
 **Event 2 — Transfer Celebration & Supreme Force Milestone Gift!**
 
-Warriors who registered a referrer via 1:1 inquiry and settle into the Jin/Lin
+Warriors who registered a referrer via 1:1 inquiry and settle into the Jin/Lyn
 Server after passing through the Boost Server receive a special growth gift.
 
 | Mission | Reward | Qty |
 |---|---|---|
-| Complete character transfer from Boost Server to Jin/Lin Server | Black Dragon Bound Skill Book Box (Legendary) | 1 |
+| Complete character transfer from Boost Server to Jin/Lyn Server | Black Dragon Bound Skill Book Box (Legendary) | 1 |
 | Reach highest Supreme Force 32,500 after transfer | Premium Dawncrest Portrait Box (Legendary) | 1 |
 | Reach highest Supreme Force 32,500 after transfer | Sagewood Soul Shield Box | 1 |
 
@@ -210,7 +210,7 @@ a variety of growth items!
 **After the September 9 (Wed) regular maintenance – before the October 7
 (Wed) regular maintenance**
 
-**NEO Server (Jin, Lin) / Specialization Server (Gold)** — purchasable up to
+**NEO Server (Jin, Lyn) / Specialization Server (Gold)** — purchasable up to
 2× per account: Leap Special Pass Ticket / Specialization Leap Special Pass
 Ticket
 *Purchasable through the BnS Shop (F10).*
@@ -287,7 +287,7 @@ Each box below is purchasable once per account:
 
 *Purchasable through the BnS Shop (F10).*
 
-## 7. [NEO Server] — Jin, Lin: Comeback Style Costume Box
+## 7. [NEO Server] — Jin, Lyn: Comeback Style Costume Box
 
 Meet a special costume box that lets you get popular costumes all at once!
 
@@ -326,7 +326,7 @@ Result: Comeback Style Costume Box ×1
 Material: Style Coin ×4
 Result: Mysterious Mystic Badge Fragment (Pack of 100) ×1
 
-## 8. [NEO Server] — Jin, Lin: Burning Treasure Chest
+## 8. [NEO Server] — Jin, Lyn: Burning Treasure Chest
 
 Grow even stronger with a special treasure chest for your growth! A new
 transmute list has been added!
