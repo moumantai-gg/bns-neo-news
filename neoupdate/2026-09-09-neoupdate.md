@@ -1,9 +1,12 @@
 # September 9, 2026 Update Notice
 
 Translated from the official [September 9 update notice](https://bns.plaync.com/board/neoupdate/view?articleId=6aa0b1e8a279104f7d9d5b0e),
-posted 2026-09-09 05:40 KST.
+posted 2026-09-09 05:40 KST, plus two same-day companion notices appended at the
+bottom: the [known issues notice](https://bns.plaync.com/board/neoupdate/view?articleId=6aa0b1e8fa34c1011d62767f)
+and the [additional update notice](https://bns.plaync.com/board/neoupdate/view?articleId=6aa0ff40d97eae18cc40de77) —
+same three-notice structure as [2026-08-19-neoupdate.md](2026-08-19-neoupdate.md).
 
-Greetings, Daehyeop.
+Greetings, Warriors.
 
 We thank all our customers who love Blade & Soul NEO, and would like to
 announce the details of the update carried out on September 9.
@@ -76,7 +79,7 @@ announce the details of the update carried out on September 9.
   Equipment Crafting" achievement.
 - **Dungeon Entry:** In some dungeons, other party members can no longer
   enter the dungeon while a boss NPC fight is already in progress.
-- **Welcome Daehyeop:** Party members can no longer receive Welcome Daehyeop
+- **Welcome Warrior:** Party members can no longer receive Welcome Warrior
   benefit rewards if the benefiting character in the party has no Hongmoon
   Blessing left to consume.
 
@@ -84,8 +87,8 @@ announce the details of the update carried out on September 9.
 
 - **News:** Added a "News" button to the bottom HUD; removed the News menu
   from the Game Menu.
-- **Welcome Daehyeop:** Fixed the party member list's title icon to update
-  based on whether the Welcome Daehyeop title is set to display.
+- **Welcome Warrior:** Fixed the party member list's title icon to update
+  based on whether the Welcome Warrior title is set to display.
 - **Seal:** Fixed the Seal Combination window to display all 10 combination
   slots.
 - **Character Info:** Fixed the Bound icon rendering incorrectly
@@ -98,8 +101,8 @@ announce the details of the update carried out on September 9.
 ## Known Issue (carried in this notice)
 
 - **Seal:** A scroll bar displays in the Seal Combination window, depending
-  on screen resolution. *(Fixed later the same day — see
-  [2026-09-09-neoupdate-additional-update.md](2026-09-09-neoupdate-additional-update.md).)*
+  on screen resolution. *(Fixed later the same day — see the Additional
+  Update companion notice below.)*
 
 ## Neo Servers (Jin, Lyn)
 
@@ -140,3 +143,53 @@ announce the details of the update carried out on September 9.
 
 Thank you.
 
+---
+
+## Companion Notice: September 9 Known Issues
+
+Translated from [bns.plaync.com/board/neoupdate](https://bns.plaync.com/board/neoupdate/view?articleId=6aa0b1e8fa34c1011d62767f)
+("9월 9일 알려진 문제 안내"), posted 2026-09-09 05:40:00.
+
+Greetings, Warriors.
+
+We're informing you of a currently known issue in Blade & Soul NEO.
+
+**BnS Shop > "Step Up with Full Benefits! Special Settlement Supply Box for the Land"**
+- The purchase pages for The Four Guardians Growth Box, A Fate Created by
+  Revenge Growth Box, and Special Supplies incorrectly display a "limited to
+  once per character" purchase-limit notice.
+- These items are actually purchasable once per account.
+- Scheduled to be fixed at the September 16 (Wed) regular maintenance.
+
+We apologize for the inconvenience. Thank you.
+
+---
+
+## Companion Notice: September 9 Additional Update
+
+Translated from [bns.plaync.com/board/neoupdate](https://bns.plaync.com/board/neoupdate/view?articleId=6aa0ff40d97eae18cc40de77)
+("9월 9일 추가 업데이트 안내"), posted 2026-09-09 07:40:00.
+
+Greetings, Warriors.
+
+We thank all our customers who love Blade & Soul NEO, and would like to
+announce the details of the additional update carried out on September 9.
+
+### Items
+
+**Items > Face Accessory**
+- Fixed an issue where equipping certain Face Accessories altered the
+  appearance of the eyes.
+
+### Character
+
+**Character > Gon Race**
+- Improved some Gon (male and female) character poses.
+
+### Interface
+
+**Interface > Seal**
+- Fixed the Seal Combination window displaying a scroll bar depending on
+  screen resolution.
+
+Thank you.

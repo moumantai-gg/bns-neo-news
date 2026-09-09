@@ -1,13 +1,16 @@
 # August 28, 2026 Director's Letter
 
 Translated from the official [director's letter](https://bns.plaync.com/board/neonotice/view?articleId=6a916c0efeeef62e67566495),
-posted 2026-08-28 12:07 KST. Four same-day companion posts are their own files:
-[2026-08-28-neoupdate-additional-update.md](2026-08-28-neoupdate-additional-update.md),
-[2026-08-28-neoupdate-known-issues.md](2026-08-28-neoupdate-known-issues.md),
-[2026-08-28-neonotice-blackram-supply-drop.md](2026-08-28-neonotice-blackram-supply-drop.md),
-and [2026-08-28-neonotice-boost-server-followup-support.md](2026-08-28-neonotice-boost-server-followup-support.md).
+posted 2026-08-28 12:07 KST, plus two same-day `neonotice`-board companion notices
+appended at the bottom: the
+[Last Stand Blackram Supply Chain supply-drop notice](https://bns.plaync.com/board/neonotice/view?articleId=6a914e10eea53f5d6dbcf514)
+and the
+[Boost Server follow-up support notice](https://bns.plaync.com/board/neonotice/view?articleId=6a913e496aa4a15b4b8ae588).
+Two more same-day companions — the additional update and known issues notices —
+are official `neoupdate`-board posts in their own file,
+[2026-08-28-neoupdate.md](2026-08-28-neoupdate.md).
 
-Greetings, Daehyeop.
+Greetings, Warriors.
 
 ## Director's Letter — Post-Update Changes & Improvement Direction
 
@@ -92,7 +95,7 @@ entry flow**
 We've seen some Daehyeop mis-select a server during Boost Server transfer, or get
 confused finding the Boost Server. We've reinforced the related support and
 guidance so growth on the Boost Server and settling in after transfer go more
-smoothly. See [2026-08-28-neonotice-boost-server-followup-support.md](2026-08-28-neonotice-boost-server-followup-support.md) for details.
+smoothly. See [2026-08-28-neonotice.md](2026-08-28-neonotice.md) for details.
 
 1. **Wrong-transfer-target support** — The transfer target server is no longer
    auto-selected. If you already transferred to the wrong server, you can recover
@@ -166,4 +169,108 @@ leaving play.
 
 ◆ Extra event-coin distribution — many Daehyeop reported the coin requirement for
 full clear rewards was too high for a repeat-heavy event, so beyond dungeon
-clears we're adding a daily-login coin bonus (see [2026-08-28-neonotice-blackram-supply-drop.md](2026-08-28-neonotice-blackram-supply-drop.md)).
+clears we're adding a daily-login coin bonus (see [2026-08-28-neonotice.md](2026-08-28-neonotice.md)).
+
+---
+
+## Companion Notice: Last Stand Blackram Supply Chain — Supply Drop
+
+Translated from [bns.plaync.com/board/neonotice](https://bns.plaync.com/board/neonotice/view?articleId=6a914e10eea53f5d6dbcf514)
+("결전의 바다뱀 보급기지 보급품 지급"), posted 2026-08-28 10:10:00.
+
+Greetings, Warriors.
+
+Thank you for taking part in the "Last Stand Blackram Supply Chain" event. As a
+boost to your continued participation, we'll be distributing supplies for one
+week.
+
+- **Event period:** 2026-08-28 (Fri) 18:00 – 2026-09-04 (Fri) 06:00
+- **Eligible servers:** Jin, Lyn (Neo) / Gold (Specialization) / Boost Server
+  - **Details:** a daily push notification grants 5 **Base Officer Coin**, claimable
+  once per account per push window.
+
+| Push window (KST) |
+|---|
+| 8/28 18:00 – 8/29 06:00 |
+| 8/29 10:00 – 8/30 06:00 |
+| 8/30 10:00 – 8/31 06:00 |
+| 8/31 10:00 – 9/1 06:00 |
+| 9/1 10:00 – 9/2 06:00 |
+| 9/2 10:00 – 9/3 06:00 |
+| 9/3 10:00 – 9/4 06:00 |
+
+**Caution — spending Base Officer Coin**
+- The account-wide purchase limit does not reset on a Boost Server character
+  transfer.
+- Event currency, Portraits, and Seals do **not** carry over on Boost Server
+  transfer — keep this in mind before spending Base Officer Coin on the Boost
+  Server.
+- Base Officer Coin is usable until the September 16 (Wed) regular maintenance.
+
+Sanctioned accounts cannot take part. Similar promotions may run again in the
+future. Event schedule/rewards may change during the event, and rewards may be
+revoked for abnormal participation. This event follows the standard Blade & Soul
+event terms.
+
+Thank you.
+
+---
+
+## Companion Notice: Boost Server Follow-up Support
+
+Translated from [bns.plaync.com/board/neonotice](https://bns.plaync.com/board/neonotice/view?articleId=6a913e496aa4a15b4b8ae588)
+("부스트 서버 이용 관련 후속 지원 안내"), posted 2026-08-28 13:03:00.
+
+Greetings, Warriors.
+
+Thank you for the interest and support you've shown the Boost Server. Based on
+inconveniences reported since the first server-transfer round on August 26,
+we've prepared the following follow-up support.
+
+**Wrong-transfer-target support**
+
+If you transferred to a server you didn't intend to, we'll delete the
+mis-transferred character and restore one Boost Server transfer attempt.
+- File a 1:1 inquiry to request this recovery.
+- **Inquiry window:** 2026-08-28 (Fri) 21:00 – 2026-08-31 (Mon) 16:00
+- **1:1 inquiry guide:** Inquiry type → "Recovery Inquiry"; Title → prefix
+  `[Character Deletion Request for Wrong Server Transfer]`; Body → the
+  server/character info of the character to delete.
+- **Eligibility:** a character that ended up on the wrong server after a Boost
+  Server transfer; once per account; after deletion, one Boost Server transfer
+  attempt is restored at the September 2 (Wed) regular maintenance.
+- **Notes:** an in-game self-service character-deletion request can't get this
+  immediate-support path (please use Character Restoration first if you already
+  submitted one); a character still in a Clan can't be deleted until it leaves
+  the Clan; deleted characters/names can't be restored or reused; all items/data
+  on a deleted character are lost; you can still file this recovery-deletion
+  request even if you'd already filed an unrelated deletion request before.
+
+**[Boost Plus Settlement Support Box] added after transfer**
+
+To make settling into the Jin/Lyn servers smoother, a settlement-support reward
+will be added starting after the September 2 (Wed) regular maintenance:
+
+| Before Sept 2 maintenance | After Sept 2 maintenance |
+|---|---|
+| Transfer grants the Boost Settlement Support Box | Transfer grants the Boost Settlement Support Box **and** the Boost Plus Settlement Support Box |
+
+**Boost Plus Settlement Support Box contents:**
+
+| Item | Qty |
+|---|---|
+| Hongmoon Certificate: 1 Gold | 20 |
+| Enhancement Material Selection Box | 30 |
+| Repair Tool | 100 |
+| Crafting Material Selection Box | 30 |
+| Master Sangwoon | 10 |
+| Master Baekju | 10 |
+| Master Mandu | 10 |
+| Seal Release Talisman | 5 |
+| Broken Crystal | 300 |
+| Rare Element | 10 |
+
+Daehyeop who completed their server transfer on August 26 will also receive the
+Boost Plus Settlement Support Box by mail after the September 2 maintenance.
+
+We'll keep working to improve the service. Thank you.

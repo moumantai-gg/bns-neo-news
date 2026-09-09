@@ -3,7 +3,7 @@
 Translated from the official [Boost Server FAQ](https://bns.plaync.com/board/neonotice/view?articleId=6a8d2b08a7ca1a15cf46b9b7)
 notice, posted 2026-08-25 06:15 KST.
 
-Greetings, Daehyeop.
+Greetings, Warriors.
 
 We thank all Daehyeop enjoying the Boost Server. We've gathered the questions many of
 you have asked during the Boost Server period to give you a more detailed explanation

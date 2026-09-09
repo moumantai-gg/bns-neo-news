@@ -3,7 +3,7 @@
 Translated from the official [known issues notice](https://bns.plaync.com/board/neoupdate/view?articleId=6a991e2efa34c1011d627590),
 posted 2026-09-03 08:50 KST.
 
-Greetings, Daehyeop.
+Greetings, Warriors.
 
 We're informing you of currently known issues in Blade & Soul NEO.
 
