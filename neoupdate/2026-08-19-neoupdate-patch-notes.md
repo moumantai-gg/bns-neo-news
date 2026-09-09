@@ -1,9 +1,9 @@
 # August 19, 2026 Update Notice
 
 Translated from the official [August 19 update notice](https://bns.plaync.com/board/neoupdate/view?articleId=6a850268eea53f5d6dbcf34f),
-posted 2026-08-14, plus two same-day companion notices appended at the bottom: the
-[known issues notice](https://bns.plaync.com/board/neoupdate/view?articleId=6a851ed5bcc863198922321c)
-and the [additional update notice](https://bns.plaync.com/board/neoupdate/view?articleId=6a854d68eea53f5d6dbcf373).
+posted 2026-08-14. Two same-day companion posts on the same board are their own
+files: [2026-08-19-neoupdate-known-issues.md](2026-08-19-neoupdate-known-issues.md)
+and [2026-08-19-neoupdate-additional-update.md](2026-08-19-neoupdate-additional-update.md).
 
 Greetings, Daehyeop.
 
@@ -235,48 +235,3 @@ the details of the update carried out on August 19.
 
 Thank you.
 
----
-
-## Companion Notice: August 19 Known Issues
-
-Translated from [bns.plaync.com/board/neoupdate](https://bns.plaync.com/board/neoupdate/view?articleId=6a851ed5bcc863198922321c)
-("8월 19일 알려진 문제 안내"), posted 2026-08-19 04:41:00.
-
-Greetings, Daehyeop.
-
-We're informing you of currently known issues in Blade & Soul NEO.
-
-**Interface > Server Select**
-- Tooltip text renders awkwardly (unnaturally) on the server-select screen.
-- On first login, the "Change Server" button can't be clicked.
-
-**Specialization Server — Items > Windshock Soul Shield Equipment Effect Reset Ticket**
-- On the Specialization server, this ticket's expiration date isn't displayed.
-- It's actually usable until the regular maintenance on **October 14, 2026**.
-
-We apologize for the inconvenience. Thank you.
-
----
-
-## Companion Notice: August 19 Additional Update
-
-Translated from [bns.plaync.com/board/neoupdate](https://bns.plaync.com/board/neoupdate/view?articleId=6a854d68eea53f5d6dbcf373)
-("8월 19일 추가 업데이트 안내"), posted 2026-08-19 07:30:00.
-
-Greetings, Daehyeop.
-
-We thank all our customers who love Blade & Soul NEO, and would like to announce
-the details of the additional update carried out on August 19.
-
-### Interface
-
-**Interface > Server Select**
-- Fixed the guidance text on the server-select screen.
-
-**Interface > Dragon Pillar**
-- Fixed the "Travel to Myeongyawon" shortcut button appearing at an inconsistent size.
-
-**Interface > Storybook Mileage**
-- Fixed unused mileage gauge being displayed in the Storybook Mileage screen.
-
-Thank you.

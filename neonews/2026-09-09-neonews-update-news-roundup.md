@@ -2,7 +2,7 @@
 
 Translated from the official [September 9 update news](https://bns.plaync.com/board/neonews/view?articleId=6aa01031d430490e63f60e1b)
 post, posted 2026-09-09 KST. Per this app's usual `neonews`-vs-`neoupdate`
-distinction (see [2026-09-02-event-notice.md](2026-09-02-event-notice.md)),
+distinction (see [2026-09-02-neonews-update-news-roundup.md](2026-09-02-neonews-update-news-roundup.md)),
 this reads as a periodic **event/shop roundup** rather than official patch
 notes, so it's filed under the **Event / Preview** category despite "Update"
 in its title.
@@ -335,7 +335,7 @@ transmute list has been added!
 (Wed) regular maintenance**
 
 This is the same ongoing Burning Treasure Chest event first covered in
-[2026-09-02-event-notice.md](2026-09-02-event-notice.md) — re-featured here
+[2026-09-02-neonews-update-news-roundup.md](2026-09-02-neonews-update-news-roundup.md) — re-featured here
 with a newly added transmute list (below).
 
 - **Burning Treasure Chest** — purchasable through the Dragon Express.

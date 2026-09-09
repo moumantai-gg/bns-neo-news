@@ -1,8 +1,8 @@
 # August 26, 2026 Update Notice
 
 Translated from the official [August 26 update notice](https://bns.plaync.com/board/neoupdate/view?articleId=6a8e2938bcc863198922329a),
-posted 2026-08-26 05:20 KST, plus a same-day companion notice appended at the bottom: the
-[known issues notice](https://bns.plaync.com/board/neoupdate/view?articleId=6a8e86bcd97eae18cc40dc75).
+posted 2026-08-26 05:20 KST. A same-day companion post on the same board is its own
+file: [2026-08-26-neoupdate-known-issues.md](2026-08-26-neoupdate-known-issues.md).
 
 Greetings, Daehyeop.
 
@@ -194,20 +194,3 @@ the details of the update carried out on August 26.
 
 Thank you.
 
----
-
-## Companion Notice: August 26 Known Issues
-
-Translated from [bns.plaync.com/board/neoupdate](https://bns.plaync.com/board/neoupdate/view?articleId=6a8e86bcd97eae18cc40dc75)
-("8월 26일 알려진 문제 안내"), posted 2026-08-26 07:25:00.
-
-Greetings, Daehyeop.
-
-We're informing you of currently known issues in Blade & Soul NEO.
-
-**Event > Burning Treasure Chest**
-- The "Burning Soul Core Equipment Effect Change Ticket" cannot be used on +1–+5
-  Legendary Mushin's Soul Cores.
-- *(Scheduled to be fixed at the September 2 (Wed) regular maintenance.)*
-
-Thank you.

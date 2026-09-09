@@ -2,7 +2,7 @@
 
 Translated from the official [September 2 update notice](https://bns.plaync.com/board/neoupdate/view?articleId=6a9759dba279104f7d9d5a06),
 posted 2026-09-02 02:10 KST. Distinct from
-[2026-09-02-event-notice.md](2026-09-02-event-notice.md), which translates a
+[2026-09-02-neonews-update-news-roundup.md](2026-09-02-neonews-update-news-roundup.md), which translates a
 same-day `neonews` board post (shop/event roundup) rather than these official
 patch notes.
 
