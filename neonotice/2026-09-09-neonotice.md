@@ -498,6 +498,8 @@ attempts.*
    participation may result in reward recovery or cancellation.
 7. This event follows the Blade & Soul Event Terms.
 
+Thank you.
+
 ## 5. Comeback Style Costume Box Guide
 
 Translated from the official [sale notice](https://bns.plaync.com/board/neonotice/view?articleId=6aa0b1e86b722c561dc6a492),

@@ -95,7 +95,8 @@ entry flow**
 We've seen some Daehyeop mis-select a server during Boost Server transfer, or get
 confused finding the Boost Server. We've reinforced the related support and
 guidance so growth on the Boost Server and settling in after transfer go more
-smoothly. See [2026-08-28-neonotice.md](2026-08-28-neonotice.md) for details.
+smoothly. See the "Boost Server Follow-up Support" companion notice below for
+details.
 
 1. **Wrong-transfer-target support** — The transfer target server is no longer
    auto-selected. If you already transferred to the wrong server, you can recover
@@ -169,7 +170,8 @@ leaving play.
 
 ◆ Extra event-coin distribution — many Daehyeop reported the coin requirement for
 full clear rewards was too high for a repeat-heavy event, so beyond dungeon
-clears we're adding a daily-login coin bonus (see [2026-08-28-neonotice.md](2026-08-28-neonotice.md)).
+clears we're adding a daily-login coin bonus (see the "Last Stand Blackram
+Supply Chain — Supply Drop" companion notice below).
 
 ---
 
