@@ -53,9 +53,9 @@ Supply Box for the Land" release**
 | The Four Guardians Growth Box (Step 2) | Gold Line Steel | 20 |
 | | The Four Guardians Bond Box | 1 |
 | | Radiant Special Seal Box | 1 |
-| A Fate Created by Revenge Growth Box (Step 3) | Black Dragon Bound Skill Book Box (Legendary) | 1 |
+| A Fate Created by Revenge Growth Box (Step 3) | Bound Black Dragon Skill Book Chest (Legendary) | 1 |
 | | A Fate Created by Revenge Box | 1 |
-| Special Supplies (Step 4) | Black Dragon Bound Skill Book Box (Legendary) | 1 |
+| Special Supplies (Step 4) | Bound Black Dragon Skill Book Chest (Legendary) | 1 |
 | | Seal Slot Expansion | 1 |
 
 **Component details**
@@ -68,8 +68,8 @@ Supply Box for the Land" release**
 | Gold Line Steel | A material consumed when enhancing Gold Line weapons. |
 | The Four Guardians Bond Box | Opening grants the Jiwan, Divine Fist Mushin, Master Hong, and Iksanun Portraits. Use those 4 Portraits to complete The Four Guardians Bond. |
 | Radiant Special Seal Box | Opening grants one of the Legendary Special Seals at set odds. |
-| Black Dragon Bound Skill Book Box (Legendary) | Opening lets you choose and obtain one Legendary Bound Skill Book series box matching your character's class. |
-| Black Dragon Bound Skill Book Series Box: by class | Opening grants one of the Legendary Bound Skill Books matching the chosen character's class line, at set odds. |
+| Bound Black Dragon Skill Book Chest (Legendary) | Opening lets you choose and obtain one Legendary Bound Skill Book series box matching your character's class. |
+| Bound Black Dragon Skill Book Series Chest: by class | Opening grants one of the Legendary Bound Skill Books matching the chosen character's class line, at set odds. |
 | A Fate Created by Revenge Box | Opening grants the Gubong, Yura, and Jinsoyun Portraits. Use those 3 Portraits to complete A Fate Created by Revenge Bond. |
 | Seal Slot Expansion | A material used when expanding a Seal slot. |
 
@@ -152,7 +152,7 @@ on the Jin/Lyn Server.*
 |---|---|---|
 | 1 | Radiant Seal Box | 1 |
 | 2 | Radiant Special Seal Box | 1 |
-| 3 | Black Dragon Bound Skill Book Box (Legendary) | 1 |
+| 3 | Bound Black Dragon Skill Book Chest (Legendary) | 1 |
 | 4 | Premium Dawncrest Portrait Box (Legendary) | 1 |
 
 **EVENT 2. A transfer celebration and Supreme Force milestone gift! (for new/returning accounts)**
@@ -164,7 +164,7 @@ on the Jin/Lyn Server.*
 
 | Mission | Mission condition | Reward | Qty |
 |---|---|---|---|
-| Transfer complete | Complete character transfer from the Boost Server to the Jin/Lyn Server | Black Dragon Bound Skill Book Box (Legendary) | 1 |
+| Transfer complete | Complete character transfer from the Boost Server to the Jin/Lyn Server | Bound Black Dragon Skill Book Chest (Legendary) | 1 |
 | Target Supreme Force reached | Reach highest Supreme Force 32,500 after transfer | Premium Dawncrest Portrait Box (Legendary) | 1 |
 | | | Sagewood Soul Shield Box | 1 |
 
@@ -259,7 +259,7 @@ features.*
 
 | Reward | Qty | Description |
 |---|---|---|
-| Black Dragon Bound Skill Book Box (Legendary) | 1 | Opening lets you choose one Legendary Bound Skill Book series box matching your class; opening that series box grants one of its Legendary Bound Skill Books at set odds. |
+| Bound Black Dragon Skill Book Chest (Legendary) | 1 | Opening lets you choose one Legendary Bound Skill Book series box matching your class; opening that series box grants one of its Legendary Bound Skill Books at set odds. |
 | Faded Fusion Mantra Stone: Suh | 15 | Usable as a fusion material for Mantra Stone: Suh; doesn't apply its Mantra effect if equipped in combination with another Mantra Stone. |
 | Sagewood Soul Shield Box | 1 | Opening grants one of 8 Sagewood Soul Shields at set odds. |
 | Blazing Dawncrest Soul Core Box of the Leap | 1 | Opening grants one of the Blazing Geukgwon / Blazing Bibong / Blazing Barakal / Blazing Gwiryeongmyo / Blazing Muran Soul Core boxes at set odds. |
@@ -338,7 +338,7 @@ Fortune Box (Pack of 10)," and "Autumn Fortune Box (Pack of 100)" release**
 |---|---|
 | Bound Secret Skill Book Box | 1 |
 | Premium Dawncrest Portrait Box (Legendary) | 1 |
-| Black Dragon Bound Skill Book Box (Legendary) | 1 |
+| Bound Black Dragon Skill Book Chest (Legendary) | 1 |
 | Black Dragon Special Portrait Box (Legendary) | 1 |
 | Seal Slot Expansion | 1 |
 | Seal Portrait Selection Box (Legendary) | 1 |
@@ -355,8 +355,8 @@ Fortune Box (Pack of 10)," and "Autumn Fortune Box (Pack of 100)" release**
 |---|---|
 | Bound Secret Skill Book Box | Opening guaranteed-grants your class's Bound Secret Skill Book [Celestial Thunder]. |
 | Premium Dawncrest Portrait Box (Legendary) | Opening grants one of Shadow Lord Rahu, Alternate-Timeline Zulia, Dark Commander Raven King, Jinsoyun, or Master Hong at set odds. |
-| Black Dragon Bound Skill Book Box (Legendary) | Opening lets you choose one Legendary Bound Skill Book series box matching your class. |
-| Black Dragon Bound Skill Book Series Box: by class | Opening grants one of the Legendary Bound Skill Books matching the chosen class line, at set odds. |
+| Bound Black Dragon Skill Book Chest (Legendary) | Opening lets you choose one Legendary Bound Skill Book series box matching your class. |
+| Bound Black Dragon Skill Book Series Chest: by class | Opening grants one of the Legendary Bound Skill Books matching the chosen class line, at set odds. |
 | Black Dragon Special Portrait Box (Legendary) | Opening grants one of 5 Special Legendary Portraits, including Special: Jinsoyun, at set odds. |
 | Seal Slot Expansion | A material used when expanding a Seal slot. |
 | Seal Portrait Selection Box (Legendary) | Opening lets you choose either a Radiant Seal Box or a Dawncrest Portrait Box (Legendary). |
@@ -378,12 +378,12 @@ your Inventory (I).*
 
 | Material | Item | Qty | Purchase limit |
 |---|---|---|---|
-| 150 Autumn Coins | Black Dragon Bound Skill Book Box (Legendary) | 1 | 1×/week per account |
+| 150 Autumn Coins | Bound Black Dragon Skill Book Chest (Legendary) | 1 | 1×/week per account |
 | 150 Autumn Coins | Master's Portrait (Pack of 5) | 1 | 1×/week per account |
 | 35 Autumn Coins | Gold Line Steel Fortune Box | 1 | 3×/week per account |
 | 20 Autumn Coins | Gold Line Jade Fortune Box | 1 | 3×/week per account |
-| 40 Autumn Coins + 1 owned Legendary Bound Skill Book | Black Dragon Bound Skill Book Box (Legendary) | 1 | 10×/account |
-| 40 Autumn Coins + 1 owned Legendary Skill Book | Black Dragon Skill Book Box (Legendary) | 1 | 10×/account |
+| 40 Autumn Coins + 1 owned Legendary Bound Skill Book | Bound Black Dragon Skill Book Chest (Legendary) | 1 | 10×/account |
+| 40 Autumn Coins + 1 owned Legendary Skill Book | Black Dragon Skill Book Chest (Legendary) | 1 | 10×/account |
 | 40 Autumn Coins + 1 owned Premium Legendary Portrait | Premium Dawncrest Portrait Box (Legendary) | 1 | 10×/account |
 | 5 Autumn Coins | Lucky Gold Coin Box | 1 | None |
 | 55 Autumn Coins | Nostalgic Journey Costume Set Box | 1 | None |
@@ -412,8 +412,8 @@ September 23, 2026 regular maintenance.*
 |---|---|
 | Gold Line Steel Fortune Box | Opening grants one of 4–6 Gold Line Steel at set odds. |
 | Gold Line Jade Fortune Box | Opening grants one of 4–6 Gold Line Jade at set odds. |
-| Black Dragon Skill Book Box (Legendary) | Opening lets you choose one Legendary Skill Book series box matching your class. |
-| Black Dragon Skill Book Series Box: by class | Opening grants one of the Legendary Skill Books matching the chosen class line, at set odds. |
+| Black Dragon Skill Book Chest (Legendary) | Opening lets you choose one Legendary Skill Book series box matching your class. |
+| Black Dragon Skill Book Series Chest: by class | Opening grants one of the Legendary Skill Books matching the chosen class line, at set odds. |
 | Lucky Gold Coin Box | Opening grants one of 10x Hongmoon Certificate: 1 Gold, 20x Hongmoon Certificate: 1 Gold, or Hongmoon Certificate: 1 Gold (Pack of 50), at set odds. |
 | Nostalgic Journey Costume Set Box | Opening grants Nostalgic Journey, Nostalgic Journey Headpiece, and Nostalgic Journey Faceplate. |
 | Wide Pants Costume Box | Opening grants Wide Pants. |
