@@ -525,10 +525,10 @@ adjustment plan on sufficient data will take some time.
 
 **1. Easing the DPS Gap Between Classes and Redefining Roles**
 
-With ranged classes currently dominant overall, the Glacial Divine
-General Force Master build in particular has been posting high DPS
-relative to its comparatively easy controls and stable ranged damage
-cycle — to the point of pulling boss aggro. In the process, Force Masters
+With ranged classes currently dominant overall, the Ice Rain-build Force
+Master in particular has been posting high DPS relative to its
+comparatively easy controls and stable ranged damage cycle — to the point
+of pulling boss aggro. In the process, Force Masters
 who weren't meant to tank end up putting distance between themselves and
 the boss, which disrupts boss patterns and positioning and has been
 confirmed to even cut into melee classes' attack opportunities. Our basic
@@ -541,24 +541,23 @@ builds, including the Force Master's.
 
 Alongside DPS adjustments, we plan to bring out each class's distinct play
 feel and ease elements that unnecessarily constrain damage cycles. For
-example, to raise the viability of the Blade Master's neglected Iaido
-Stance build, we're reviewing options like keeping Iaido Stance active
+example, to raise the viability of the Blade Master's neglected Flicker
+Stance build, we're reviewing options like keeping Flicker Stance active
 after using Five Point Strike, and chaining into Violent Blade after
-Dragonflame Chain Slash; for the Kung Fu Master, we're reviewing a
-direction that specializes in burst damage through a motion improvement
-for Fighting Spirit Release and a way to instantly activate 4-Point
-Pressure Point. For the Assassin, we're reviewing ways to ease
-damage-cycle difficulty by lightening the burden of refreshing poison
-during Fighting Spirit Release and improving the activation condition for
-the Poison Breath buff; for the Dark Lancer, we're also reviewing a
-direction that strengthens both usability and party contribution by
-improving Farstrike Spear's reuse condition and Demonic Energy cost, and
-adding a bleed effect. For the Flame Warden as well, we're reviewing an
-improvement that eases the operating constraints on Radiant Dragon's
-Ascent during Flame Dragon's Descent, so the damage cycle can flow
-naturally even while responding to actual boss patterns. The Destroyer and
-Blade Dancer are also having improvement proposals reviewed within this
-same direction.
+Dragontongue; for the Kung Fu Master, we're reviewing a direction that
+specializes in burst damage through a motion improvement for Fighting
+Spirit and a way to instantly activate 4-Point Searing Palm. For the
+Assassin, we're reviewing ways to ease damage-cycle difficulty by
+lightening the burden of refreshing poison during Fighting Spirit and
+improving the activation condition for the Poison Breath buff; for the
+Dark Lancer, we're also reviewing a direction that strengthens both
+usability and party contribution by improving Farstrike Spear's reuse
+condition and Demonic Energy cost, and adding a bleed effect. For the
+Flame Warden as well, we're reviewing an improvement that eases the
+operating constraints on Raging Dragon Ascent during Firedrake's Descent,
+so the damage cycle can flow naturally even while responding to actual
+boss patterns. The Destroyer and Blade Dancer are also having improvement
+proposals reviewed within this same direction.
 
 **3. Other Control-Scheme Cleanup and Effect Improvements**
 
