@@ -76,7 +76,7 @@ Potion ×150, Onion Kalguksu ×150, Hongmoon Blessing Potion (Timed) ×12, and
 | Soul Pass Costume Coin (Account Bound) | Usable at the Dragon Express to exchange for various costumes. |
 | Honcheon Skill Book Fragment Box (Superior–Legendary) | Opening grants, at set odds, one of 10 Superior Skill Book Fragments, 2 Heroic Skill Book Fragments, or 1 Legendary Skill Book Fragment. |
 | Superior Portrait Box | Opening grants one Superior Portrait, at set odds. |
-| Dawncrest Soul Portrait Box | Opening grants, at set odds, one of: a Superior Portrait, or a Jeryonglim / the Great Desert / Moonwater Plains / Silverfrost Mountains / Dawncrest Isle Superior Portrait Box. |
+| Dawncrest Soul Portrait Box | Opening grants, at set odds, one of: a Superior Portrait, or a Viridian Coast / Cinderlands / Moonwater Plains / Silverfrost Mountains / Dawncrest Isle Superior Portrait Box. |
 | Earthseers Premium Revival Charm | A personal revival charm usable to revive the character on Exhaustion or Death. *10-min cooldown.* |
 | Earthseers Premium Resuscitation Charm | A party revival charm usable to revive Exhausted or Dead party members. *20-min cooldown.* |
 | Onion Kalguksu | An item that restores 316,200 HP over 10 seconds. *Unusable in combat.* |

@@ -172,8 +172,8 @@ announce the details of the update carried out on September 16.
 | Day | Reward |
 |---|---|
 | 1 | 3× Transformation Stone Crystal |
-| 2 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
-| 3 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
+| 2 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
+| 3 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
 | 4 | 1× Bountiful Nameplate (30-Day) Selection Box |
 | 5 | 1× Bountiful Speech Bubble (30-Day) Selection Box |
 | 6 | 1× Earthseers Revival Charm |
@@ -186,29 +186,29 @@ announce the details of the update carried out on September 16.
 | 13 | 1× Earthseers Revival Charm |
 | 14 | 1× Dragon Trader Material Selection Chest |
 | 15 | 3× Transformation Stone Crystal |
-| 16 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
-| 17 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
+| 16 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
+| 17 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
 | 18 | 1× Lucky Attendance Portrait Box (Superior–Heroic) |
 | 19 | 2× Superior Portrait Box |
 | 20 | 1× Earthseers Revival Charm |
 | 21 | 1× Dragon Trader Material Selection Chest |
 | 22 | 3× Transformation Stone Crystal |
-| 23 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
-| 24 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
+| 23 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
+| 24 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
 | 25 | 1× Lucky Attendance Portrait Box (Superior–Heroic) |
 | 26 | 3× Superior Portrait Box |
 | 27 | 1× Earthseers Revival Charm |
 | 28 | 1× Dragon Trader Material Selection Chest |
-| 29 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
-| 30 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
-| 31 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
+| 29 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
+| 30 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
+| 31 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
 | 32 | 1× Lucky Attendance Portrait Box (Superior–Heroic) |
 | 33 | 2× Lucky Attendance Portrait Box (Superior–Heroic) |
 | 34 | 1× Earthseers Revival Charm |
 | 35 | 5× Enhancement Material Selection Box |
 
-*Opening a Refined Portrait Box (Jeryonglim–Dawncrest Isle) grants, at set
-odds, one of the Jeryonglim / the Great Desert / Moonwater Plains /
+*Opening a Refined Portrait Box (Viridian Coast–Dawncrest Isle) grants, at set
+odds, one of Viridian Coast / Cinderlands / Moonwater Plains /
 Silverfrost Mountains / Dawncrest Isle Refined Portrait Boxes.*
 *Using a Rapid-Growth Songpyeon increases combat EXP by 50% for 30
 minutes.*
@@ -274,8 +274,8 @@ of the following:*
 | Day | Reward |
 |---|---|
 | 1 | 10× Transformation Stone Crystal |
-| 2 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
-| 3 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
+| 2 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
+| 3 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
 | 4 | 1× Bountiful Nameplate (30-Day) Selection Box |
 | 5 | 1× Bountiful Speech Bubble (30-Day) Selection Box |
 | 6 | 1× Earthseers Revival Charm |
@@ -288,22 +288,22 @@ of the following:*
 | 13 | 1× Earthseers Revival Charm |
 | 14 | 2× Dragon Trader Material Selection Chest |
 | 15 | 10× Transformation Stone Crystal |
-| 16 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
-| 17 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
+| 16 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
+| 17 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
 | 18 | 1× Lucky Attendance Portrait Box (Superior–Heroic) |
 | 19 | 2× Superior Portrait Box |
 | 20 | 1× Earthseers Revival Charm |
 | 21 | 3× Dragon Trader Material Selection Chest |
 | 22 | 20× Transformation Stone Crystal |
-| 23 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
-| 24 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
+| 23 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
+| 24 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
 | 25 | 1× Lucky Attendance Portrait Box (Superior–Heroic) |
 | 26 | 3× Superior Portrait Box |
 | 27 | 1× Earthseers Revival Charm |
 | 28 | 3× Dragon Trader Material Selection Chest |
-| 29 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
-| 30 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
-| 31 | 3× Refined Portrait Box (Jeryonglim–Dawncrest Isle) |
+| 29 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
+| 30 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
+| 31 | 3× Refined Portrait Box (Viridian Coast–Dawncrest Isle) |
 | 32 | 1× Lucky Attendance Portrait Box (Superior–Heroic) |
 | 33 | 2× Lucky Attendance Portrait Box (Superior–Heroic) |
 | 34 | 1× Earthseers Revival Charm |
