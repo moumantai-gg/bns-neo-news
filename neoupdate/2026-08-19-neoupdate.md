@@ -22,6 +22,7 @@ the details of the update carried out on August 19.
 - Silverfrost Mountains > Ebondrake Hall (흑룡교 전당): Added a new Hero-tier dungeon, the **Ebondrake Hall**, in the Gangnyusi region.
   - *Requires Level 60+ and completion of "Crack in the Martial World Ch. 8: Shadow of the Moon" to enter.*
   
+
 **New Solo Dungeon — "Darkstorm Training Ground"**
 - Mushin's Hall (무신의 회당) > Darkstorm Training Ground (흑풍수련장): Added a new solo dungeon.
   - *Requires completion of "Crack in the Martial World Ch. 3: Training of the Blackwind Society" to enter.*
@@ -37,7 +38,9 @@ the details of the update carried out on August 19.
 
 - **Pre-Registration Commemorative Gift Reward** (8/19 maint. – before 9/16 maint.): Redeemable once per account.
 - **New & Returning Player Benefit — Welcome Warrior Event** (8/19 – 9/16 maint.): Adds a "Welcome Warrior" title. Characters with this benefit get +20% EXP on dungeon clears, and extra Challenge Box rewards, for target dungeons (Hwansu Training Ground, Frozen Abandoned Mine, Garden of Meditation, Ashewind Cave, Red Sand Ruins, Moonrise Tourney Hall, Ebondrake Hall). "Infinite Thread" effect lets costume tailoring/dyeing skip Five-Color Thread cost.
-  - **"Riotous Passion Sky Park" Event** (8/19 – 9/2 maint.): Travel to the event dungeon from Dawncrest Isle > Myeongyawon. New daily quest via letter. Event currency "Sky Park Coin" exchangeable at NPC merchant Eunbi (Gangnyusi Merchant Guild / Myeongyawon / Mushin's Hall).
+  
+
+- **"Riotous Passion Sky Park" Event** (8/19 – 9/2 maint.): Travel to the event dungeon from Dawncrest Isle > Myeongyawon. New daily quest via letter. Event currency "Sky Park Coin" exchangeable at NPC merchant Eunbi (Gangnyusi Merchant Guild / Myeongyawon / Mushin's Hall).
 - **"Jaha Demon God Field Summon" Event** (8/19 – 9/16 maint.): "Jaha Demon God" spawns at Suspicious Rituals during the event; defeating it drops a special loot item. Spawn location is randomized between Wind Plains and Northern Snowfield in Silverfrost Mountains. Event currency "Blackwind Society Token" exchangeable via the same NPC.
 - **"Naryu Kingdom Treasure Hunt" Event** (8/19 – 9/16 maint.): "Treasure Hunt Key" obtained via "Treasure Hunt Key Pouch" (chance drop from clearing Silverfrost Mountains Highest-tier+ dungeons). Runs twice daily, 4 hours each (10:00–14:00, 19:00–23:00). Event currencies "Naryu Gold Coin"/"Naryu Silver Coin" exchangeable via the same NPC.
 - **(Duplicate-titled) "Naryu Kingdom Treasure Hunt" Event** (8/19 – 9/16 maint.): Travel to event dungeon from Dawncrest Isle > Myeongyawon. Stats are normalized in this dungeon — talismans/seals/mantras (except skill books) don't apply, and skill-mastery damage bonus is also normalized. Event currency "Gijigwan Coin" exchangeable via NPC Eunha.
@@ -169,7 +172,7 @@ the details of the update carried out on August 19.
 - Seal slots: all locked slots auto-unlock once the base unlock condition is met.
 - Removed the in-game Guidebook menu.
 - Hongmoon Blessing: acceleration-mode toggle moved/clickable from HUD icon.
-- Exploration Log: notifies when Supreme Force changes from completion; "Black Serpent Queen" kill entry → "Black Serpent Queen / Raging Yeti"; "Geukgwon" entry → "Geukgwon / Bifeng."
+- Exploration Log: notifies when Supreme Force changes from completion; "Black Serpent Queen" kill entry → "Black Serpent Queen / Raging Yeti"; "Grand Fist" entry → "Grand Fist / Bibong."
 - Path of Growth: can now progress class quests alongside it; some dungeon segments shortened/polish improved; completing the final dungeon disables the Challenge button.
 - +1 character slot (base and max).
 - Collection Book: added tabs for Gieonseok and Hwanyeong-bopae.
@@ -213,7 +216,8 @@ the details of the update carried out on August 19.
 - Soul Badge / Mystic Badge: Reduced material quantities needed to enhance Sacred-tier and Dawncrest-tier badges.
 - Shop: Added "Transformation Stone Crystal" to the Dragon Trader exchange vendor.
 
-## Specialization Server
+<details>
+<summary>Specialization Server (Gold) — click to expand</summary>
 
 **Soul Pass**
 - **Specialization Soul Pass** (8/19 – 9/16 maint.): Added 10 exchange items for "Soul Pass Black Dragon Coin" at Dragon Express.
@@ -228,6 +232,8 @@ the details of the update carried out on August 19.
 
 **System**
 - Removed skill branches (계열) entirely; Mystic Badge/Soul Badge/skill-book box opening restriction changed to be class-based instead.
+
+</details>
 
 ## Known Issue (carried in this notice)
 
@@ -250,9 +256,13 @@ We're informing you of currently known issues in Blade & Soul NEO.
 - Tooltip text renders awkwardly (unnaturally) on the server-select screen.
 - On first login, the "Change Server" button can't be clicked.
 
-**Specialization Server — Items > Windshock Soul Shield Equipment Effect Reset Ticket**
+<details>
+<summary>Specialization Server (Gold) — click to expand</summary>
+
 - On the Specialization server, this ticket's expiration date isn't displayed.
 - It's actually usable until the regular maintenance on **October 14, 2026**.
+
+</details>
 
 We apologize for the inconvenience. Thank you.
 
