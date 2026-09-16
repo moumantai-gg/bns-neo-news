@@ -344,3 +344,236 @@ item by in-game mail.
 - This event follows the Blade & Soul Event Terms.
 
 Thank you.
+
+---
+
+## Companion Notice: September 16 (Wed) Emergency Maintenance Compensation
+
+Translated from the official [notice](https://bns.plaync.com/board/neonotice/view?articleId=6aaa36aafa34c1011d62779f),
+posted 2026-09-16 08:03 KST.
+
+Greetings, Warriors.
+
+We sincerely thank all Warriors who always trust and stay with us here at
+Blade & Soul NEO.
+
+We deeply apologize for the inconvenience to your gameplay caused by the
+emergency maintenance conducted on 9/16 (Wed).
+
+Following today's regular maintenance, we found that dungeon Challenge
+Reward boxes were being obtained in excess of 1 depending on a multiplier,
+and this issue has now been fixed. Any excess amounts obtained abnormally
+will be recovered.
+
+We thank the Warriors who patiently bore with the inconvenience once again,
+and have carefully prepared a reward to show our appreciation, however
+small. Warriors on a Boost Server can claim the emergency maintenance
+compensation after next week's server transfer; this reward will be
+distributed until before the September 30 (Wed) regular maintenance, so
+please take note.
+
+**Emergency Maintenance Compensation Details**
+- **Distribution period:** After the emergency maintenance – before the
+  September 30 (Wed) regular maintenance
+- **Reward servers:** Jin, Lyn (NEO) / Gold (Specialization)
+- **Distribution method:** Push reward (once per account)
+- **Reward items:**
+
+| Item | Quantity |
+|---|---|
+| Autumn EXP Charm Box | 5 |
+| Songpyeon | 3 |
+| Maple Leaf | 3 |
+| Black Dragon Special Portrait Box (Heroic–Legendary) | 1 |
+
+Thank you.
+
+---
+
+## Companion Notice: Director's Letter — Play Experience Improvements & Future Update Direction
+
+Translated from the official [Director's Letter](https://bns.plaync.com/board/neonotice/view?articleId=6aaa6f6e71f8fb7c2a7a31e9),
+posted 2026-09-16 11:29 KST.
+
+**Play Experience Improvements & Future Update Direction**
+
+**[September Key Improvements]**
+
+**① Growth & Dungeon Play Improvements**
+
+*Applied 9/9*
+
+**Quest > Daily Quest**
+- Lowered the minimum Supreme Force requirement for the Ashewind Cave and
+  Red Sand Ruins daily quests.
+- Lowered the maximum Supreme Force limit for the Frozen Abandoned Mine and
+  Garden of Reflection daily quests.
+
+**◆ Easing the Growth Gap Between Dungeons**
+
+In some stretches, the required Supreme Force gap between dungeons had
+grown wide enough that Warriors had to repeat the same dungeon for a long
+time before moving on to the next one. We determined this growth
+stagnation was especially pronounced in the stretch from Moonrise Tourney
+Hall to Ashewind Cave. To let you set your sights on the next dungeon more
+naturally, we tightened the intervals between each dungeon's required
+Supreme Force, focusing on this stretch.
+
+**◆ Adjusting Difficulty and Missions to Match the Growth Flow**
+
+As the required Supreme Force for higher-tier dungeons was adjusted, we
+also adjusted the dungeon difficulty and daily-mission Supreme Force
+ranges for Frozen Abandoned Mine and Garden of Reflection. Rather than
+simply lowering the required Supreme Force, we looked at the overall flow
+so that challenging a new dungeon at your current growth stage naturally
+leads into your next goal. We hope this adjustment also lets you enjoy the
+thrill of challenging new dungeons as you grow.
+
+*Applied 9/16*
+
+**System > Challenge Reward**
+- Improved the dungeon Challenge Reward requirement so the reward can be
+  obtained as long as at least 1 party member is within the recommended
+  Supreme Force range.
+- Added to the number of times the dungeon Challenge Reward can be
+  obtained per day.
+
+**◆ Easing the Challenge Reward Box Requirement**
+
+The Challenge Reward is a system designed to let Warriors at similar
+growth stages challenge dungeons together and earn extra rewards. However,
+because whether the reward was obtained was decided by the party's average
+Supreme Force, having a higher-Supreme-Force character join the party
+ended up affecting the other party members' chances of earning the reward.
+We judged that a character who worked hard to grow becoming a constraint
+on party play went against the Challenge Reward's original intent, so we
+removed the party-average Supreme Force requirement — the whole party can
+now obtain the Challenge Reward box as long as every member meets the
+dungeon's minimum Supreme Force requirement and at least 1 member is
+within the recommended Supreme Force range.
+
+**◆ Adjusting How Many Times the Challenge Reward Box Can Be Obtained**
+
+As the requirement for obtaining the Challenge Reward box was eased, we
+also adjusted how many times it can be obtained, taking reward value and
+overall balance into account. We judged that keeping it uncapped, as
+before, could combine with the eased requirement to significantly increase
+the amount of reward obtained. To preserve the intent of the eased
+requirement while keeping an appropriate reward value, we changed it so
+each character can obtain the Challenge Reward box up to 3 times per day
+at most, regardless of dungeon type.
+
+**◆ Other Convenience: Insignia Equip Info UI Improvement**
+
+Improved the UI so you can check Insignia information more conveniently.
+In the Insignia tab of Character Info, you can now check the icons of your
+currently equipped Insignias and their combined stat totals at a glance.
+This cuts the hassle of checking each equipped Insignia one by one, and
+makes it easier to check and reference not only your own Insignia setup
+but other Warriors' setups as well.
+
+**② Play Convenience Improvements**
+
+*Scheduled for 9/30*
+
+Beyond what's covered above, we're preparing several convenience
+improvements for the next update to reduce inconveniences you've
+frequently run into during play.
+
+**1. Gear Growth Convenience Improvement**
+
+Previously, you had to unequip your gear to perform a Regular Transmission
+or reset a gear effect. To reduce this hassle during the repetitive
+gear-growth process, we plan to let you perform a Regular Transmission and
+reset a gear effect directly, even while the gear stays equipped.
+
+**2. Displaying the Supreme Force Change from Gear Effect Changes**
+
+You'll be able to immediately see how much Supreme Force a gear effect
+change will add or remove, right when you make the change. Previously you
+had to apply the new effect and compare the Supreme Force change yourself;
+going forward, the Gear Management screen will show the Supreme Force
+change directly, so you can judge which effect to pick more intuitively.
+
+**3. Character-Switching Convenience Improvement**
+
+We're also improving the hassle of switching between multiple characters.
+Previously, switching characters meant returning to the Character Select
+lobby and choosing again; going forward, you'll be able to switch to
+another character from within the game itself, without going through the
+lobby — cutting unnecessary travel when playing back and forth between
+characters.
+
+**4. Redoing a Dungeon While Keeping the Party**
+
+We're also simplifying dungeon re-entry when playing a dungeon
+repeatedly. After clearing a dungeon, if one party member selects "Redo,"
+a new dungeon instance is created, and the rest of the party can continue
+straight into the same dungeon while keeping the current party intact.
+This removes the old need to find a Dragon Pillar inside the dungeon to
+re-enter, letting the same party repeat a dungeon more conveniently.
+
+**[October Update Direction — Class Balance]**
+
+We're well aware that many Warriors are waiting on class balance
+adjustments. We're continuously reviewing the feedback you've sent along
+with real play data, and examining the details closely to improve each
+class's combat experience for the better. That said, since we need to
+weigh multiple classes' characteristics and combat structure together, we
+ask for your understanding that preparing a better direction and
+adjustment plan on sufficient data will take some time.
+
+**1. Easing the DPS Gap Between Classes and Redefining Roles**
+
+With ranged classes currently dominant overall, the Glacial Divine
+General Force Master build in particular has been posting high DPS
+relative to its comparatively easy controls and stable ranged damage
+cycle — to the point of pulling boss aggro. In the process, Force Masters
+who weren't meant to tank end up putting distance between themselves and
+the boss, which disrupts boss patterns and positioning and has been
+confirmed to even cut into melee classes' attack opportunities. Our basic
+direction is to ease the gap by raising the overall DPS of relatively
+underperforming classes and lines, while also reviewing further
+adjustments to the excessive performance and combat role of top-tier
+builds, including the Force Master's.
+
+**2. Strengthening Class Identity and Improving Damage-Cycle Usability**
+
+Alongside DPS adjustments, we plan to bring out each class's distinct play
+feel and ease elements that unnecessarily constrain damage cycles. For
+example, to raise the viability of the Blade Master's neglected Iaido
+Stance build, we're reviewing options like keeping Iaido Stance active
+after using Five Point Strike, and chaining into Violent Blade after
+Dragonflame Chain Slash; for the Kung Fu Master, we're reviewing a
+direction that specializes in burst damage through a motion improvement
+for Fighting Spirit Release and a way to instantly activate 4-Point
+Pressure Point. For the Assassin, we're reviewing ways to ease
+damage-cycle difficulty by lightening the burden of refreshing poison
+during Fighting Spirit Release and improving the activation condition for
+the Poison Breath buff; for the Dark Lancer, we're also reviewing a
+direction that strengthens both usability and party contribution by
+improving Farstrike Spear's reuse condition and Demonic Energy cost, and
+adding a bleed effect. For the Flame Warden as well, we're reviewing an
+improvement that eases the operating constraints on Radiant Dragon's
+Ascent during Flame Dragon's Descent, so the damage cycle can flow
+naturally even while responding to actual boss patterns. The Destroyer and
+Blade Dancer are also having improvement proposals reviewed within this
+same direction.
+
+**3. Other Control-Scheme Cleanup and Effect Improvements**
+
+We're looking into cases where effects are excessive and block your view,
+as well as cases where certain input keys are hard to use in specific
+situations.
+
+**4. Celestial Thunder Care**
+
+Celestial Thunder is a skill shared by every class, but a gap has arisen
+in its activation cycle depending on each class line's damage cycle. We're
+collecting data so we can adjust it, using the class with the fastest
+activation cycle as the benchmark for making all classes activate it at a
+similar rate.
+
+As you've waited this long, we'll prepare thoroughly and share the
+specific per-class balance adjustment direction and changes in detail
+during the live broadcast ahead of the October 2nd Anniversary update. 😀

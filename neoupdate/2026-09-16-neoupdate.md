@@ -326,3 +326,22 @@ Selection Chest.*
 </details>
 
 Thank you.
+
+---
+
+## Companion Notice: September 16 Additional Update
+
+Translated from the official [additional update notice](https://bns.plaync.com/board/neoupdate/view?articleId=6aaa3540d97eae18cc40dfbe),
+posted 2026-09-16 07:58 KST.
+
+Greetings, Warriors.
+
+We thank all our customers who love Blade & Soul NEO, and would like to
+announce the details of the additional update carried out on September 16.
+
+**System > Challenge Reward**
+- Changed so that only 1 Challenge Reward box can be obtained.
+  - ※ Any excess amounts obtained abnormally will be recovered in
+    sequence.
+
+Thank you.
