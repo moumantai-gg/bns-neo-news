@@ -361,7 +361,7 @@ We deeply apologize for the inconvenience to your gameplay caused by the
 emergency maintenance conducted on 9/16 (Wed).
 
 Following today's regular maintenance, we found that dungeon Challenge
-Reward boxes were being obtained in excess of 1 depending on a multiplier,
+Boxes were being obtained in excess of 1 depending on a multiplier,
 and this issue has now been fixed. Any excess amounts obtained abnormally
 will be recovered.
 
@@ -431,37 +431,37 @@ thrill of challenging new dungeons as you grow.
 
 *Applied 9/16*
 
-**System > Challenge Reward**
-- Improved the dungeon Challenge Reward requirement so the reward can be
-  obtained as long as at least 1 party member is within the recommended
-  Supreme Force range.
-- Added to the number of times the dungeon Challenge Reward can be
-  obtained per day.
+**System > Challenge Box**
+- Improved the dungeon Challenge Box requirement so it can be obtained as
+  long as at least 1 party member is within the recommended Supreme Force
+  range.
+- Added to the number of times the dungeon Challenge Box can be obtained
+  per day.
 
-**◆ Easing the Challenge Reward Box Requirement**
+**◆ Easing the Challenge Box Requirement**
 
-The Challenge Reward is a system designed to let Warriors at similar
-growth stages challenge dungeons together and earn extra rewards. However,
-because whether the reward was obtained was decided by the party's average
+The Challenge Box is a system designed to let Warriors at similar growth
+stages challenge dungeons together and earn extra rewards. However,
+because whether it was obtained was decided by the party's average
 Supreme Force, having a higher-Supreme-Force character join the party
-ended up affecting the other party members' chances of earning the reward.
+ended up affecting the other party members' chances of earning it.
 We judged that a character who worked hard to grow becoming a constraint
-on party play went against the Challenge Reward's original intent, so we
+on party play went against the Challenge Box's original intent, so we
 removed the party-average Supreme Force requirement — the whole party can
-now obtain the Challenge Reward box as long as every member meets the
-dungeon's minimum Supreme Force requirement and at least 1 member is
-within the recommended Supreme Force range.
+now obtain the Challenge Box as long as every member meets the dungeon's
+minimum Supreme Force requirement and at least 1 member is within the
+recommended Supreme Force range.
 
-**◆ Adjusting How Many Times the Challenge Reward Box Can Be Obtained**
+**◆ Adjusting How Many Times the Challenge Box Can Be Obtained**
 
-As the requirement for obtaining the Challenge Reward box was eased, we
-also adjusted how many times it can be obtained, taking reward value and
+As the requirement for obtaining the Challenge Box was eased, we also
+adjusted how many times it can be obtained, taking reward value and
 overall balance into account. We judged that keeping it uncapped, as
 before, could combine with the eased requirement to significantly increase
 the amount of reward obtained. To preserve the intent of the eased
 requirement while keeping an appropriate reward value, we changed it so
-each character can obtain the Challenge Reward box up to 3 times per day
-at most, regardless of dungeon type.
+each character can obtain the Challenge Box up to 3 times per day at
+most, regardless of dungeon type.
 
 **◆ Other Convenience: Insignia Equip Info UI Improvement**
 

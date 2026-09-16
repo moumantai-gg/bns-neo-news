@@ -339,8 +339,8 @@ Greetings, Warriors.
 We thank all our customers who love Blade & Soul NEO, and would like to
 announce the details of the additional update carried out on September 16.
 
-**System > Challenge Reward**
-- Changed so that only 1 Challenge Reward box can be obtained.
+**System > Challenge Box**
+- Changed so that only 1 Challenge Box can be obtained.
   - ※ Any excess amounts obtained abnormally will be recovered in
     sequence.
 
