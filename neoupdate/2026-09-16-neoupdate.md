@@ -108,8 +108,9 @@ announce the details of the update carried out on September 16.
 - Added Titles to some achievement rewards.
 
 **Portrait**
-- Changed the completion reward for the Bonds Jeongsajiyeon, Yangdaejijon,
-  Cheonhaojeol, and Palddaegiboui Juin.
+- Changed the completion reward for the Bonds Conflict Between the
+  Righteous and the Evil, The Two Supreme Masters, The Five Great Warriors,
+  and Master of the Eight Great Treasures.
 
 ### Interface
 
