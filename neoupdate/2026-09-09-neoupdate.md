@@ -89,7 +89,7 @@ announce the details of the update carried out on September 9.
   from the Game Menu.
 - **Welcome Warrior:** Fixed the party member list's title icon to update
   based on whether the Welcome Warrior title is set to display.
-- **Seal:** Fixed the Seal Combination window to display all 10 combination
+- **Insignia:** Fixed the Insignia Fusion window to display all 10 combination
   slots.
 - **Character Info:** Fixed the Bound icon rendering incorrectly
   (inconsistent with the actual Skill Book's own trade attribute) on primary
@@ -100,7 +100,7 @@ announce the details of the update carried out on September 9.
 
 ## Known Issue (carried in this notice)
 
-- **Seal:** A scroll bar displays in the Seal Combination window, depending
+- **Insignia:** A scroll bar displays in the Insignia Fusion window, depending
   on screen resolution. *(Fixed later the same day — see the Additional
   Update companion notice below.)*
 
@@ -188,8 +188,8 @@ announce the details of the additional update carried out on September 9.
 
 ### Interface
 
-**Interface > Seal**
-- Fixed the Seal Combination window displaying a scroll bar depending on
+**Interface > Insignia**
+- Fixed the Insignia Fusion window displaying a scroll bar depending on
   screen resolution.
 
 Thank you.

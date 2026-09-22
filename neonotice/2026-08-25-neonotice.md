@@ -34,8 +34,8 @@ needed for quest progress is left behind.
   - Costumes, boxes, and material items sitting in inventory
   - Gold held
   - Portraits held & completed Bonds/Collections
-  - Equipped/held Seals
-  - Mileage (Portrait Synthesis, Seal Combination, Transmute, Gear Enhancement)
+  - Equipped/held Insignias
+  - Mileage (Portrait Synthesis, Insignia Fusion, Transmute, Gear Enhancement)
   - Guild membership & guild-crafted items
   - Items currently in progress in a crafting commission
   - Unclaimed mail, etc.

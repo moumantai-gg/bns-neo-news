@@ -49,7 +49,7 @@ October 28, 2026 regular maintenance.*
 ### Premium Rewards
 
 Featured items: Hongmoon Soul Gold Coin Box ×50, Soul Pass Full Moon Coin
-×30, a Chuseok Lucky Portrait Box Bundle ×2, Blazing Special Seal Box ×2,
+×30, a Chuseok Lucky Portrait Box Bundle ×2, Heroic Special Insignia Chest ×2,
 Soul EXP Chest Key ×5, Soul Pass Costume Coin (Account Bound) ×3, Honcheon
 Skill Book Fragment Box (Superior–Legendary) ×30, Superior Portrait Box ×30,
 Dawncrest Soul Portrait Box ×50, Earthseers Premium Revival Charm ×10,
@@ -71,7 +71,7 @@ Potion ×150, Onion Kalguksu ×150, Hongmoon Blessing Potion (Timed) ×12, and
 | Black Dragon Special Portrait Box (Heroic–Legendary) | Opening grants, at set odds, 1 of Black Dragon Special Portrait Box (Heroic) or Black Dragon Special Portrait Box (Legendary). |
 | Black Dragon Special Portrait Box (Heroic) | Opening grants one of 13 Special Heroic Portraits, including Special: [the Black Dragon Cult Leader], at set odds. |
 | Black Dragon Special Portrait Box (Legendary) | Opening grants one of 5 Special Legendary Portraits, including Special: Jinsoyun, at set odds. |
-| Blazing Special Seal Box | Opening grants one of the Heroic Special Seals, at set odds. |
+| Heroic Special Insignia Chest | Opening grants one of the Heroic Special Insignias, at set odds. |
 | Soul EXP Chest Key | Usable to open a Soul EXP Chest. *Usable until before the October 28, 2026 regular maintenance.* |
 | Soul Pass Costume Coin (Account Bound) | Usable at the Dragon Express to exchange for various costumes. |
 | Honcheon Skill Book Fragment Box (Superior–Legendary) | Opening grants, at set odds, one of 10 Superior Skill Book Fragments, 2 Heroic Skill Book Fragments, or 1 Legendary Skill Book Fragment. |
@@ -97,8 +97,8 @@ Box, also obtainable this way, opens into 1 Soul Pass Full Moon Coin and 1
 Soul Support Box.
 
 **Soul Support Box** — opening guaranteed-grants Master Chef's Dumplings,
-plus one of 1–5 Emergency Repair Kits, a Faint Seal Box, a Superior Portrait
-Box, a Luminous Seal Box, or an Enhancement Material Selection Box, at set
+plus one of 1–5 Emergency Repair Kits, a Refined Insignia Chest, a Superior Portrait
+Box, a Brilliant Insignia Chest, or an Enhancement Material Selection Box, at set
 odds.
 
 **Dragon Express exchange list** (Inventory (I) > Dragon Express) — coins
@@ -112,7 +112,7 @@ required, available until before the October 28, 2026 regular maintenance:
 | 20 | Sagewood Soul Shield Chest (Account Bound) | 1× per account |
 | 10 | Master's Portrait (Legendary) | 2× per account |
 | 5 | Special: Master's Portrait (Heroic) | 4× per account |
-| 5 | Radiant Seal Box | 4× per account |
+| 5 | Lustrous Insignia Chest | 4× per account |
 | 5 | Black Dragon Portrait Box (Heroic–Legendary) | (NEO) 2× per character / (Specialization) 4× per account |
 | 1 | Soul Support Box | No limit |
 
@@ -482,9 +482,9 @@ frequently run into during play.
 
 **1. Gear Growth Convenience Improvement**
 
-Previously, you had to unequip your gear to perform a Regular Transmission
+Previously, you had to unequip your gear to perform an Essence Transfer
 or reset a gear effect. To reduce this hassle during the repetitive
-gear-growth process, we plan to let you perform a Regular Transmission and
+gear-growth process, we plan to let you perform an Essence Transfer and
 reset a gear effect directly, even while the gear stays equipped.
 
 **2. Displaying the Supreme Force Change from Gear Effect Changes**

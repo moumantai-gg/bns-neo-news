@@ -204,7 +204,7 @@ week.
 **Caution — spending Base Officer Coin**
 - The account-wide purchase limit does not reset on a Boost Server character
   transfer.
-- Event currency, Portraits, and Seals do **not** carry over on Boost Server
+- Event currency, Portraits, and Insignias do **not** carry over on Boost Server
   transfer — keep this in mind before spending Base Officer Coin on the Boost
   Server.
 - Base Officer Coin is usable until the September 16 (Wed) regular maintenance.

@@ -49,14 +49,14 @@ Supply Box for the Land" release**
 |---|---|---|
 | Love of a Century Growth Box (Step 1) | Gold Line Jade | 30 |
 | | Love of a Century Bond Box | 1 |
-| | Radiant Seal Box | 1 |
+| | Lustrous Insignia Chest | 1 |
 | The Four Guardians Growth Box (Step 2) | Gold Line Steel | 20 |
 | | The Four Guardians Bond Box | 1 |
-| | Radiant Special Seal Box | 1 |
+| | Lustrous Special Insignia Chest | 1 |
 | A Fate Created by Revenge Growth Box (Step 3) | Bound Black Dragon Skill Book Chest (Legendary) | 1 |
 | | A Fate Created by Revenge Box | 1 |
 | Special Supplies (Step 4) | Bound Black Dragon Skill Book Chest (Legendary) | 1 |
-| | Seal Slot Expansion | 1 |
+| | Insignia Slot Expansion Ticket | 1 |
 
 **Component details**
 
@@ -64,14 +64,14 @@ Supply Box for the Land" release**
 |---|---|
 | Gold Line Jade | A material consumed when enhancing Gold Line accessories. |
 | Love of a Century Bond Box | Opening grants both the Divine Fist Mushin and Yura Portraits. Use those 2 Portraits to complete the Love of a Century Bond. |
-| Radiant Seal Box | Opening grants one of the Legendary Seals at set odds. |
+| Lustrous Insignia Chest | Opening grants one of the Legendary Insignias at set odds. |
 | Gold Line Steel | A material consumed when enhancing Gold Line weapons. |
 | The Four Guardians Bond Box | Opening grants the Jiwan, Divine Fist Mushin, Master Hong, and Iksanun Portraits. Use those 4 Portraits to complete The Four Guardians Bond. |
-| Radiant Special Seal Box | Opening grants one of the Legendary Special Seals at set odds. |
+| Lustrous Special Insignia Chest | Opening grants one of the Legendary Special Insignias at set odds. |
 | Bound Black Dragon Skill Book Chest (Legendary) | Opening lets you choose and obtain one Legendary Bound Skill Book series box matching your character's class. |
 | Bound Black Dragon Skill Book Series Chest: by class | Opening grants one of the Legendary Bound Skill Books matching the chosen character's class line, at set odds. |
 | A Fate Created by Revenge Box | Opening grants the Gubong, Yura, and Jinsoyun Portraits. Use those 3 Portraits to complete A Fate Created by Revenge Bond. |
-| Seal Slot Expansion | A material used when expanding a Seal slot. |
+| Insignia Slot Expansion Ticket | A material used when expanding a Insignia slot. |
 
 **[NEO Shop] Store shortcut >**
 **[NEO Shop] Specialization Store shortcut >**
@@ -150,8 +150,8 @@ on the Jin/Lyn Server.*
 
 | Accounts transferred | Reward | Qty |
 |---|---|---|
-| 1 | Radiant Seal Box | 1 |
-| 2 | Radiant Special Seal Box | 1 |
+| 1 | Lustrous Insignia Chest | 1 |
+| 2 | Lustrous Special Insignia Chest | 1 |
 | 3 | Bound Black Dragon Skill Book Chest (Legendary) | 1 |
 | 4 | Premium Dawncrest Portrait Box (Legendary) | 1 |
 
@@ -341,11 +341,11 @@ Fortune Box (Pack of 10)," and "Autumn Fortune Box (Pack of 100)" release**
 | Premium Dawncrest Portrait Box (Legendary) | 1 |
 | Bound Black Dragon Skill Book Chest (Legendary) | 1 |
 | Black Dragon Special Portrait Box (Legendary) | 1 |
-| Seal Slot Expansion | 1 |
-| Seal Portrait Selection Box (Legendary) | 1 |
+| Insignia Slot Expansion Ticket | 1 |
+| Insignia Portrait Selection Chest (Legendary) | 1 |
 | Master's Portrait (Legendary) | 1 |
 | Faded Fusion Mantra Stone: Hae | 1 |
-| Seal Portrait Selection Box (Heroic) | 1 |
+| Insignia Portrait Selection Chest (Heroic) | 1 |
 | Autumn Coin | 5 |
 | Autumn Coin | 2 |
 | Autumn Coin | 1 |
@@ -359,15 +359,15 @@ Fortune Box (Pack of 10)," and "Autumn Fortune Box (Pack of 100)" release**
 | Bound Black Dragon Skill Book Chest (Legendary) | Opening lets you choose one Legendary Bound Skill Book series box matching your class. |
 | Bound Black Dragon Skill Book Series Chest: by class | Opening grants one of the Legendary Bound Skill Books matching the chosen class line, at set odds. |
 | Black Dragon Special Portrait Box (Legendary) | Opening grants one of 5 Special Legendary Portraits, including Special: Jinsoyun, at set odds. |
-| Seal Slot Expansion | A material used when expanding a Seal slot. |
-| Seal Portrait Selection Box (Legendary) | Opening lets you choose either a Radiant Seal Box or a Dawncrest Portrait Box (Legendary). |
-| Radiant Seal Box | Opening grants one of the Legendary Seals at set odds. |
+| Insignia Slot Expansion Ticket | A material used when expanding a Insignia slot. |
+| Insignia Portrait Selection Chest (Legendary) | Opening lets you choose either a Lustrous Insignia Chest or a Dawncrest Portrait Box (Legendary). |
+| Lustrous Insignia Chest | Opening grants one of the Legendary Insignias at set odds. |
 | Dawncrest Portrait Box (Legendary) | Opening grants one of a 14-item Legendary Portrait list, including Shadow Lord Rahu and Alternate-Timeline Zulia, at set odds. |
 | Master's Portrait (Legendary) | Usable only as a Legendary Portrait fusion material — can't be used for Bonds or the collection. |
 | Faded Fusion Mantra Stone: Hae | Usable as a fusion material for Mantra Stone: Hae; doesn't apply its Mantra effect if equipped in combination with another Mantra Stone. |
-| Seal Portrait Selection Box (Heroic) | Opening lets you choose a Blazing Seal Box, Blazing Special Seal Box, or Black Dragon Portrait Box (Heroic). |
-| Blazing Seal Box | Opening grants one of the Heroic Seals at set odds. |
-| Blazing Special Seal Box | Opening grants one of the Heroic Special Seals at set odds. |
+| Insignia Portrait Selection Chest (Heroic) | Opening lets you choose a Heroic Insignia Chest, Heroic Special Insignia Chest, or Black Dragon Portrait Box (Heroic). |
+| Heroic Insignia Chest | Opening grants one of the Heroic Insignias at set odds. |
+| Heroic Special Insignia Chest | Opening grants one of the Heroic Special Insignias at set odds. |
 | Black Dragon Portrait Box (Heroic) | Opening grants one of a 53-item Heroic Portrait list, including [the Black Dragon Cult Leader], at set odds. |
 | Autumn Coin | Usable for [the Flying Dragon Trader]'s item exchange and the event transmute. *(Usable until before the October 7, 2026 regular maintenance.)* |
 
@@ -434,7 +434,7 @@ Salvage: No, Tailor: Yes.*
 
 | Material | Result | Qty | Method | Fee | Limit |
 |---|---|---|---|---|---|
-| 25 Autumn Coins | Divine Beast's Choice Box, or 4 Autumn Coins | 1 | grants one | 50 silver | 2×/day, Specialization server |
+| 25 Autumn Coins | Timestream Selection Chest, or 4 Autumn Coins | 1 | grants one | 50 silver | 2×/day, Specialization server |
 
 *The above transmute runs in scheduled windows: Round 1: 9/9 (Wed)
 20:00–23:59; Round 2: 9/10 (Thu) 20:00–23:59; Round 3: 9/11 (Fri)
@@ -443,7 +443,7 @@ Salvage: No, Tailor: Yes.*
 
 | Material | Result | Qty | Method | Fee | Limit |
 |---|---|---|---|---|---|
-| 2 Autumn Coins | Luminous Seal Box, or Faint Seal Box | 1 | grants one | None | 2×/day, Specialization server |
+| 2 Autumn Coins | Brilliant Insignia Chest, or Refined Insignia Chest | 1 | grants one | None | 2×/day, Specialization server |
 
 *Scheduled windows: Round 1: 9/16 (Wed) 20:00–23:59; Round 2: 9/17 (Thu)
 20:00–23:59; Round 3: 9/18 (Fri) 20:00–23:59; Round 4: 9/19 (Sat)
@@ -465,10 +465,10 @@ Salvage: No, Tailor: Yes.*
 |---|---|---|---|---|
 | 50 Autumn Coins | Bound Secret Skill Book Box, or 10 Autumn Coins | 1 | grants one | 50 silver |
 | 45 Autumn Coins | Black Dragon Special Portrait Box (Legendary), or Black Dragon Special Portrait Box (Heroic) | 1 | grants one | 50 silver |
-| 15 Autumn Coins | Seal Slot Expansion, or 1 Autumn Coin | 1 | grants one | 50 silver |
-| 5 Autumn Coins | Radiant Seal Box, or 1 Autumn Coin | 1 | grants one | 50 silver |
-| 30 Autumn Coins | Radiant Special Seal Box, or 3 Autumn Coins | 1 | grants one | 50 silver |
-| 7 Autumn Coins | Awakening Seal Box, or 1 Autumn Coin | 1 | grants one | 50 silver |
+| 15 Autumn Coins | Insignia Slot Expansion Ticket, or 1 Autumn Coin | 1 | grants one | 50 silver |
+| 5 Autumn Coins | Lustrous Insignia Chest, or 1 Autumn Coin | 1 | grants one | 50 silver |
+| 30 Autumn Coins | Lustrous Special Insignia Chest, or 3 Autumn Coins | 1 | grants one | 50 silver |
+| 7 Autumn Coins | Awakened Insignia Chest, or 1 Autumn Coin | 1 | grants one | 50 silver |
 
 *The above transmute list is available until before the October 7, 2026
 regular maintenance.*
@@ -482,10 +482,10 @@ attempts.*
 
 | Item | Description |
 |---|---|
-| Divine Beast's Choice Box | Opening lets you choose one of Gorongui, Gorongui's Resolve, Gumuak Mask, Muryongui, Muryongui Headpiece, Muryongui Costume Ornament, Muakui, White Balwaryong Branch, Waryongui, Cheongakui, Cheongakui Headpiece, or Cheongakui Costume Ornament. |
-| Luminous Seal Box | Opening grants one of the Ancient Seals at set odds. |
+| Timestream Selection Chest | Opening lets you choose one of Gorongui, Gorongui's Resolve, Gumuak Mask, Muryongui, Muryongui Headpiece, Muryongui Costume Ornament, Muakui, White Balwaryong Branch, Waryongui, Cheongakui, Cheongakui Headpiece, or Cheongakui Costume Ornament. |
+| Brilliant Insignia Chest | Opening grants one of the Ancient Insignias at set odds. |
 | Black Dragon Special Portrait Box (Heroic) | Opening grants one of 13 Special Heroic Portraits, including Special: [the Black Dragon Cult Leader], at set odds. |
-| Awakening Seal Box | Opening grants one of Radiant Awakened Attack/Critical Damage Red Seal Box, Radiant Awakened Attack/HP Yellow Seal Box, or Radiant Awakened Attack/Accuracy Blue Seal Box, at set odds. |
+| Awakened Insignia Chest | Opening grants one of Radiant Awakened Attack/Critical Damage Red Insignia Chest, Radiant Awakened Attack/HP Yellow Insignia Chest, or Radiant Awakened Attack/Accuracy Blue Insignia Chest, at set odds. |
 
 **※ Must read! Cautions**
 1. This item is exclusive to the Specialization server and can't be used on

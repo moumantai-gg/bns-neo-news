@@ -169,7 +169,7 @@ the details of the update carried out on August 19.
 - Added min/max Supreme Force requirements to some quests, with tooltip indicators.
 - Dragon Pillar teleport now drops you inside the dungeon directly; can enter a completed dungeon while in a party; added "travel to Myeongyawon" option.
 - Storybook (도화첩): auto-unlocked on new characters if already unlocked account-wide; default tab changed to "Bonds"; completable Bonds/Collections now surface first.
-- Seal slots: all locked slots auto-unlock once the base unlock condition is met.
+- Insignia slots: all locked slots auto-unlock once the base unlock condition is met.
 - Removed the in-game Guidebook menu.
 - Hongmoon Blessing: acceleration-mode toggle moved/clickable from HUD icon.
 - Exploration Log: notifies when Supreme Force changes from completion; "Black Serpent Queen" kill entry → "Black Serpent Queen / Raging Yeti"; "Grand Fist" entry → "Grand Fist / Bibong."

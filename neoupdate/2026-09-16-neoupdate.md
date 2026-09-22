@@ -115,7 +115,7 @@ announce the details of the update carried out on September 16.
 ### Interface
 
 **Character Info**
-- Improved it so the Seal tab now displays your equipped Seal.
+- Improved it so the Insignia tab now displays your equipped Insignia.
 
 **My Info**
 - Fixed an issue where the Portrait Book tooltip displayed Critical Chance
@@ -239,7 +239,7 @@ of the following:*
 
 - **Martial World Moon Costume Box** (after 9/16 maint. – before 9/30
   maint.): Added 9 event items to the Dragon Express.
-- **Black Dragon Cult Treasure Box** (after 9/16 maint. – before 10/21
+- **Ebondrake Treasure Chest** (after 9/16 maint. – before 10/21
   maint.): Added 7 event items to the Dragon Express. Added 6 event
   transmute recipes.
 - **Boost Leap Box:** Changed 1 event item in the Dragon Express.
