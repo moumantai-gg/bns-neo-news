@@ -318,8 +318,8 @@ New achievements and titles have been added — details below.
 | Achievement | Description | Title |
 |---|---|---|
 | Traces of Ganghoyurang | Equip Ganghoyurang, the Ganghoyurang Headpiece, and the Ganghoyurang Costume Ornament | Ruler of the Land Chronicler |
-| Conquest of Ebondrake Hall | Defeat Jahamasin in Ebondrake Hall 10 times | One Who Silenced Ebondrake |
-| Speed Clear: Ebondrake Hall | Defeat Jahamasin in Ebondrake Hall within 5 minutes | One Who Overwhelmed Ebondrake |
+| Conquest of Ebondrake Hall | Defeat the Lord of the Damned in Ebondrake Hall 10 times | One Who Silenced Ebondrake |
+| Speed Clear: Ebondrake Hall | Defeat the Lord of the Damned in Ebondrake Hall within 5 minutes | One Who Overwhelmed Ebondrake |
 | Conquest of Darkstorm Training Ground | Clear the final stage of Darkstorm Training Ground | 17-vs-1 Specialist |
 
 Additionally, for the "Fervent Growth" achievement's "Fervent Hwandan": among

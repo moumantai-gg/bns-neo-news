@@ -24,9 +24,9 @@ announce the details of the update carried out on September 16.
     reward.
   - Songpyeon and Maple Leaf obtained through event participation can be
     exchanged for rewards via NPC Dragon Trader "Eunyu," located at the
-    Gangnyusi Merchants' Guild, Bright Night Garden, and Mushin's Hall.
-- **Event Ended — Jahamasin Field Summon Event:** Removed Jahamasin's
-  Special Loot from the Suspicious Ritual drop rewards.
+    Zaiwei Merchants' Guild, Bright Night Garden, and Mushin's Hall.
+- **Event Ended — Lord of the Damned Field Summon Event:** Removed the Lord
+  of the Damned's Special Loot from the Suspicious Ritual drop rewards.
 - **Event Ended — Naryuguk's Treasure Hunt:** Removed the Treasure Hunt Key
   Pouch from dungeon drop rewards. Deprecated 11 event items. Removed the
   "Naryuguk's Treasure Hunt" tab from event merchant NPC Dragon Trader

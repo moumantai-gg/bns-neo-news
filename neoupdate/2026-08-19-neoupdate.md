@@ -19,9 +19,8 @@ the details of the update carried out on August 19.
 - Moonlight Meadow (달빛초원) > Common: The **"Chorongcho"** monster spawns in Moonlight Meadow are now replaced by **"Blackwind Society"** (흑풍회) spawns.
 
 **New Hero Dungeon — "Ebondrake Hall"**
-- Silverfrost Mountains > Ebondrake Hall (흑룡교 전당): Added a new Hero-tier dungeon, the **Ebondrake Hall**, in the Gangnyusi region.
+- Silverfrost Mountains > Ebondrake Hall (흑룡교 전당): Added a new Hero-tier dungeon, the **Ebondrake Hall**, in the Zaiwei region.
   - *Requires Level 60+ and completion of "Crack in the Martial World Ch. 8: Shadow of the Moon" to enter.*
-  
 
 **New Solo Dungeon — "Darkstorm Training Ground"**
 - Mushin's Hall (무신의 회당) > Darkstorm Training Ground (흑풍수련장): Added a new solo dungeon.
@@ -30,7 +29,6 @@ the details of the update carried out on August 19.
 **New Class — "Flame Warden" (염제)**
 - Class > Flame Warden: Added the new class.
   - *Can be created with Jin, Gon, and Lyn races.*
-  
 
 ## Other Updates
 
@@ -38,10 +36,8 @@ the details of the update carried out on August 19.
 
 - **Pre-Registration Commemorative Gift Reward** (8/19 maint. – before 9/16 maint.): Redeemable once per account.
 - **New & Returning Player Benefit — Welcome Warrior Event** (8/19 – 9/16 maint.): Adds a "Welcome Warrior" title. Characters with this benefit get +20% EXP on dungeon clears, and extra Challenge Box rewards, for target dungeons (Hwansu Training Ground, Frozen Abandoned Mine, Garden of Meditation, Ashewind Cave, Red Sand Ruins, Moonrise Tourney Hall, Ebondrake Hall). "Infinite Thread" effect lets costume tailoring/dyeing skip Five-Color Thread cost.
-  
-
-- **"Riotous Passion Sky Park" Event** (8/19 – 9/2 maint.): Travel to the event dungeon from Dawncrest Isle > Myeongyawon. New daily quest via letter. Event currency "Sky Park Coin" exchangeable at NPC merchant Eunbi (Gangnyusi Merchant Guild / Myeongyawon / Mushin's Hall).
-- **"Jaha Demon God Field Summon" Event** (8/19 – 9/16 maint.): "Jaha Demon God" spawns at Suspicious Rituals during the event; defeating it drops a special loot item. Spawn location is randomized between Wind Plains and Northern Snowfield in Silverfrost Mountains. Event currency "Blackwind Society Token" exchangeable via the same NPC.
+- **"Riotous Passion Sky Park" Event** (8/19 – 9/2 maint.): Travel to the event dungeon from Dawncrest Isle > Myeongyawon. New daily quest via letter. Event currency "Sky Park Coin" exchangeable at NPC merchant Eunbi (Zaiwei Merchant Guild / Myeongyawon / Mushin's Hall).
+- **"Lord of the Damned Field Summon" Event** (8/19 – 9/16 maint.): The "Lord of the Damned" spawns at Suspicious Rituals during the event; defeating it drops a special loot item. Spawn location is randomized between Wind Plains and Northern Snowfield in Silverfrost Mountains. Event currency "Blackwind Society Token" exchangeable via the same NPC.
 - **"Naryu Kingdom Treasure Hunt" Event** (8/19 – 9/16 maint.): "Treasure Hunt Key" obtained via "Treasure Hunt Key Pouch" (chance drop from clearing Silverfrost Mountains Highest-tier+ dungeons). Runs twice daily, 4 hours each (10:00–14:00, 19:00–23:00). Event currencies "Naryu Gold Coin"/"Naryu Silver Coin" exchangeable via the same NPC.
 - **(Duplicate-titled) "Naryu Kingdom Treasure Hunt" Event** (8/19 – 9/16 maint.): Travel to event dungeon from Dawncrest Isle > Myeongyawon. Stats are normalized in this dungeon — talismans/seals/mantras (except skill books) don't apply, and skill-mastery damage bonus is also normalized. Event currency "Gijigwan Coin" exchangeable via NPC Eunha.
 - **"Grow Into a Hot-Blooded Faction!" Event** (8/19 – 9/16 maint.): Faction founding cost now free. Faction rank growth cost reduced. Increased equipment-enhancement discount rate from faction rank benefits. Factions completing faction-activity missions get bonus mail rewards (only members in the faction at mission-completion snapshot qualify).
@@ -69,7 +65,7 @@ the details of the update carried out on August 19.
 - **Crafting:** Removed blueprint-crafting commissions from Cheolmubang, Mangeumdang, Taesangmun. Removed the "Suwol Legendary Blueprint" crafting commission from "Suwol Heroic Blueprint."
 - **Transmute:** Removed the equipment-transmute recipe using "Ascension Stone" as material. Increased transmute success rate for "Blazing Skill Book Box" / "Radiant Skill Book Box."
 - **Skill Books:** Highest-tier-and-below skill books deprecated.
-- **Exploration Log:** Added exploration-log completion items; using one auto-completes the matching progress entries (quests themselves are not completed, only the log entries).
+- **Exploration Journal:** Added Exploration Journal completion items; using one auto-completes the matching progress entries (quests themselves are not completed, only the journal entries).
 
 ### Combat / Martial Arts
 
@@ -172,7 +168,7 @@ the details of the update carried out on August 19.
 - Insignia slots: all locked slots auto-unlock once the base unlock condition is met.
 - Removed the in-game Guidebook menu.
 - Hongmoon Blessing: acceleration-mode toggle moved/clickable from HUD icon.
-- Exploration Log: notifies when Supreme Force changes from completion; "Black Serpent Queen" kill entry → "Black Serpent Queen / Raging Yeti"; "Grand Fist" entry → "Grand Fist / Bibong."
+- Exploration Journal: notifies when Supreme Force changes from completion; "Black Serpent Queen" kill entry → "Black Serpent Queen / Raging Yeti"; "Grand Fist" entry → "Grand Fist / Bibong."
 - Path of Growth: can now progress class quests alongside it; some dungeon segments shortened/polish improved; completing the final dungeon disables the Challenge button.
 - +1 character slot (base and max).
 - Collection Book: added tabs for Gieonseok and Hwanyeong-bopae.
@@ -183,7 +179,7 @@ the details of the update carried out on August 19.
 - Skill Books: can now be inherited directly into the skill manual instead of only accessories (equipped-accessory inheritances auto-transfer after maintenance; unequipped/highest-tier-and-below ones mailed). Skill-book inheritance can now switch between same-root/same-grade skill branches, sharing skill-mastery score across all branches sharing a root. Removed Normal/Advanced-tier skill books; Highest-tier-and-below skills now usable without a skill book.
 - Soul Core: enhancement-score bonuses now apply to all same-root skills of matching grade; highest value applies if multiple skills share a root.
 - Salvage: bulk-registration target now based on comparing to currently equipped gear.
-- Character: HP now applies at 100% on character creation even if increased via Storybook/Exploration Log rewards.
+- Character: HP now applies at 100% on character creation even if increased via Storybook/Exploration Journal rewards.
 - Settings: "screen shake on attack" default changed to OFF.
 - Dungeon tooltip: added a teleport button to the tooltip shown when clicking a dungeon-name link.
 

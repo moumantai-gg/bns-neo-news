@@ -54,7 +54,7 @@ announce the details of the update carried out on September 9.
   the dungeon's Challenge reward requirement.
 
 - **Silverfrost Mountains > Ebondrake Hall:** Fixed an issue where boss NPC
-  "Jaha Demon God"'s "Jillyong-unjunghaeng" skill wasn't hitting party
+  the Lord of the Damned's "Jillyong-unjunghaeng" skill wasn't hitting party
   members near the target.
 
 ### Region
@@ -119,7 +119,8 @@ announce the details of the update carried out on September 9.
   Removed the item exchangeable for the "Jewel Voucher" from the Dragon
   Express.
 
-## Specialization Server (Gold)
+<details>
+<summary>Specialization Server (Gold) — click to expand</summary>
 
 **Soul Pass**
 - **Specialization Leap Special Pass** (after 9/9 maint. – before 9/30
@@ -140,6 +141,8 @@ announce the details of the update carried out on September 9.
   Added a guidance message, shown when refining, to help evenly grow the
   enhancement stage of Winterbane and White Light accessories during the
   Boost Mission.
+
+</details>
 
 Thank you.
 

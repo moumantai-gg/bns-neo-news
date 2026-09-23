@@ -66,7 +66,7 @@ the details of the update carried out on August 26.
 - Changed the kill reward for floor-3 NPC "Raging Yeti Manifestation."
 
 **Silverfrost Mountains > Ebondrake Hall**
-- Fixed an issue where Jaha Demon God's Demonic Energy Projectile would
+- Fixed an issue where the Lord of the Damned's Demonic Energy Projectile would
   occasionally become invisible.
 - Changed the basic attack used by Demonized Zealots.
 - Fixed an issue where Yomaaeran's Veil Attack was displayed in a color indicating
@@ -165,7 +165,8 @@ the details of the update carried out on August 26.
 - Merchants: Changed the exchange-level requirement for the voucher in Sillyong
   Gongsang's exchange-merchant list to 76.
 
-## Specialization Server
+<details>
+<summary>Specialization Server (Gold) — click to expand</summary>
 
 **Soul Pass**
 - **Specialization Soul Pass ended:** Removed items exchangeable with "Soul Pass
@@ -177,6 +178,8 @@ the details of the update carried out on August 26.
 **Events**
 - **"Martial World Lucky Box":** Added 2 items exchangeable with "Martial World
   Energy" to Dragon Express.
+
+</details>
 
 ## Boost Server
 
