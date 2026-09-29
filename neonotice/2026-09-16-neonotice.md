@@ -144,8 +144,7 @@ reward — usable at the Dragon Express to exchange for various costumes.
 
 **Costume Box tab** — use together with a Costume Box Coin (i.e. Full Moon
 Coin, from the companion Martial World Moon Costume Box notice) to exchange
-for Wandering Warrior, the Wandering Warrior Head Adornment, or the Wandering Warrior Costume
-Ornament.
+for Wandering Warrior, the Wandering Warrior Head Adornment, or the Wandering Warrior Adornment.
 
 **Soul Pass tab** — exchange for a variety of appearances:
 

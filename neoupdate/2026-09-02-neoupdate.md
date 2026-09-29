@@ -82,7 +82,7 @@ announce the details of the update carried out on September 2.
 ### Quests
 
 **Quest > Side Story**
-- Made some cutscenes in the "Crack in the Martial World" quest skippable.
+- Made some cutscenes in the "Rift in the Realm" quest skippable.
 
 ### System
 

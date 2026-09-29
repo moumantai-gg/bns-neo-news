@@ -13,14 +13,14 @@ the details of the update carried out on August 19.
 ## Major Updates
 
 **Quests**
-- Quest > Side Story: Added the Yeolhyeolgangho (Hot-Blooded Hero) side-story quest **"Crack in the Martial World."**
+- Quest > Side Story: Added the Yeolhyeolgangho (Hot-Blooded Hero) side-story quest **"Rift in the Realm."**
 
 **Region**
 - Moonlight Meadow (달빛초원) > Common: The **"Chorongcho"** monster spawns in Moonlight Meadow are now replaced by **"Black Winds"** (흑풍회) spawns.
 
 **New Hero Dungeon — "Ebondrake Hall"**
 - Silverfrost Mountains > Ebondrake Hall (흑룡교 전당): Added a new Hero-tier dungeon, the **Ebondrake Hall**, in the Zaiwei region.
-  - *Requires Level 60+ and completion of "Crack in the Martial World Ch. 8: Shadow of the Moon" to enter.*
+  - *Requires Level 60+ and completion of "Rift in the Realm Chapter 8. The Shadow of the Moon" to enter.*
 
 **New Solo Dungeon — "Darkstorm Training Ground"**
 - Mushin's Hall (무신의 회당) > Darkstorm Training Ground (흑풍수련장): Added a new solo dungeon.
@@ -156,7 +156,7 @@ the details of the update carried out on August 19.
 
 - Daily/Weekly Challenge quest availability now varies by Supreme Force (무력).
 - Removed daily quests tied to "Prison" (뇌옥) and "Black Dragon Sect Hideout" dungeons; removed "Final Training" quest, replaced with per-solo-dungeon quests matched to Supreme Force.
-- Quest icons hidden on map/minimap before completing Path of Growth / Crack in the Martial World quests.
+- Quest icons hidden on map/minimap before completing Path of Growth / Rift in the Realm quests.
 - Changed rewards for Dawncrest Isle side-story chapters 16–17.
 
 ### System

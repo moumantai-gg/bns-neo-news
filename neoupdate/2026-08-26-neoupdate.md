@@ -83,8 +83,8 @@ the details of the update carried out on August 26.
   easier to find.
 
 **Quest > Side Story**
-- Shortened the spawn-wait time for the Gwidosi Brazier during "Crack in the
-  Martial World Ch. 1."
+- Shortened the spawn-wait time for the Gwidosi Brazier during "Rift in the
+  Realm Chapter 1."
 
 ### System
 
