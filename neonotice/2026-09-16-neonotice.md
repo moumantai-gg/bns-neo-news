@@ -144,7 +144,7 @@ reward — usable at the Dragon Express to exchange for various costumes.
 
 **Costume Box tab** — use together with a Costume Box Coin (i.e. Full Moon
 Coin, from the companion Martial World Moon Costume Box notice) to exchange
-for Ganghoyurang, the Ganghoyurang Headpiece, or the Ganghoyurang Costume
+for Wandering Warrior, the Wandering Warrior Head Adornment, or the Wandering Warrior Costume
 Ornament.
 
 **Soul Pass tab** — exchange for a variety of appearances:
@@ -204,7 +204,7 @@ the Special Martial World Moon Costume Box guaranteed-grants one.
 Along with the new Full Moon costume line, collect Full Moon Coins to also
 get the new Full Moon Illusion Soul Shield Set, the popular Black Mystic Set
 Box, 2 popular Illusion Weapons, and — a limited-edition Ruler of the Land
-collaboration costume! — the Ganghoyurang Set, letting you transform into
+collaboration costume! — the Wandering Warrior Set, letting you transform into
 Han Bi-gwang or Dam Hwa-rin.
 
 Meet the Martial World Moon Costume Box now.
@@ -214,7 +214,7 @@ Meet the Martial World Moon Costume Box now.
 
 *Contents include: Seolhong-ui, Seonimja, the Full Moon Costume Set
 (including the Evening Black variant), the Black Mystic Illusion Weapon,
-the Radiant Dragon Illusion Weapon, and the Ganghoyurang Set. Fully
+the Radiant Dragon Illusion Weapon, and the Wandering Warrior Set. Fully
 equipping any of the costume sets activates a set-exclusive effect and
 unlocks a Social Action.*
 
@@ -239,11 +239,11 @@ Express for whichever item you want.
 
 | Full Moon Coin | Soul Pass Costume Coin | Exchange item | Qty |
 |---|---|---|---|
-| 5 | 1 | Ganghoyurang Headpiece | 1 |
-| 5 | 1 | Ganghoyurang Costume Ornament | 1 |
-| 10 | 1 | Ganghoyurang | 1 |
-| 10 | — | Black Wind Society Emote | 1 |
-| 10 | — | Dam Hwa-rin Emote | 1 |
+| 5 | 1 | Wandering Warrior Head Adornment | 1 |
+| 5 | 1 | Wandering Warrior Adornment | 1 |
+| 10 | 1 | Wandering Warrior | 1 |
+| 10 | — | Black Winds Animation | 1 |
+| 10 | — | Dam Hwa-rin Animation | 1 |
 | 10 | — | Full Moon Illusion Soul Shield Set | 1 |
 | 15 | — | Special Martial World Moon Costume Box | 1 |
 | 15 | — | Black Mystic Set Box | 1 |
@@ -251,13 +251,13 @@ Express for whichever item you want.
 | 20 | — | Radiant Dragon Illusion Weapon Box | 1 |
 | 20 | — | Full Moon Costume Set Box | 1 |
 
-- Purchasing the Ganghoyurang Headpiece, Ganghoyurang Costume Ornament, and
-  Ganghoyurang each require both the listed Full Moon Coin amount and 1
+- Purchasing the Wandering Warrior Head Adornment, Wandering Warrior Adornment, and
+  Wandering Warrior each require both the listed Full Moon Coin amount and 1
   Soul Pass Costume Coin.
-- Ganghoyurang and the Ganghoyurang Headpiece display different appearances
+- Wandering Warrior and the Wandering Warrior Head Adornment display different appearances
   based on the wearing character's gender.
 - Soul Pass Costume Coin is obtainable by purchasing the Soul Pass.
-- Black Wind Society Emote and Dam Hwa-rin Emote are Illusion Standby
+- Black Winds Animation and Dam Hwa-rin Animation are Illusion Standby
   emotes — equip them to an Illusion Standby emote slot to see their effect.
 
 - The Legendary-grade Full Moon Costume Set Box and Black Mystic Set Box
@@ -267,7 +267,7 @@ Express for whichever item you want.
   opening.
 - Full Moon Costume, Full Moon Headpiece, Black Mystic, Black Mystic
   Headpiece, Black Mystic Faceplate, Black Mystic Costume Ornament,
-  Ganghoyurang, Ganghoyurang Headpiece, and Ganghoyurang Faceplate are all
+  Wandering Warrior, Wandering Warrior Head Adornment, and Wandering Warrior Adornment are all
   Tailor-eligible; Seolhong-ui and Seonimja are not.
 - Item properties obtained through this purchase are identical to their
   in-game item properties.
@@ -279,7 +279,7 @@ Black Mystic Set Box: Marketplace: No / NPC sale: Yes / Salvage: No.*
 Headpiece, Black Mystic Faceplate, Black Mystic Costume Ornament: wearable
 on any character; Marketplace: No / NPC sale: Yes / Salvage: Yes / Tailor:
 Yes.*
-*Ganghoyurang, Ganghoyurang Headpiece, Ganghoyurang Costume Ornament:
+*Wandering Warrior, Wandering Warrior Head Adornment, Wandering Warrior Adornment:
 wearable on any character; Marketplace: No / NPC sale: No / Salvage: No /
 Tailor: Yes.*
 *Seolhong-ui, Seonimja: wearable on any character; Marketplace: No / NPC
@@ -317,7 +317,7 @@ New achievements and titles have been added — details below.
 
 | Achievement | Description | Title |
 |---|---|---|
-| Traces of Ganghoyurang | Equip Ganghoyurang, the Ganghoyurang Headpiece, and the Ganghoyurang Costume Ornament | Ruler of the Land Chronicler |
+| Wandering Warrior's Loot | Equip Wandering Warrior, the Wandering Warrior Head Adornment, and the Wandering Warrior Adornment | Ruler of the Land Chronicler |
 | Conquest of Ebondrake Hall | Defeat the Lord of the Damned in Ebondrake Hall 10 times | One Who Silenced Ebondrake |
 | Speed Clear: Ebondrake Hall | Defeat the Lord of the Damned in Ebondrake Hall within 5 minutes | One Who Overwhelmed Ebondrake |
 | Conquest of Darkstorm Training Ground | Clear the final stage of Darkstorm Training Ground | 17-vs-1 Specialist |

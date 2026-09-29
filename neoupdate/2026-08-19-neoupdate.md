@@ -16,7 +16,7 @@ the details of the update carried out on August 19.
 - Quest > Side Story: Added the Yeolhyeolgangho (Hot-Blooded Hero) side-story quest **"Crack in the Martial World."**
 
 **Region**
-- Moonlight Meadow (달빛초원) > Common: The **"Chorongcho"** monster spawns in Moonlight Meadow are now replaced by **"Blackwind Society"** (흑풍회) spawns.
+- Moonlight Meadow (달빛초원) > Common: The **"Chorongcho"** monster spawns in Moonlight Meadow are now replaced by **"Black Winds"** (흑풍회) spawns.
 
 **New Hero Dungeon — "Ebondrake Hall"**
 - Silverfrost Mountains > Ebondrake Hall (흑룡교 전당): Added a new Hero-tier dungeon, the **Ebondrake Hall**, in the Zaiwei region.
@@ -24,7 +24,7 @@ the details of the update carried out on August 19.
 
 **New Solo Dungeon — "Darkstorm Training Ground"**
 - Mushin's Hall (무신의 회당) > Darkstorm Training Ground (흑풍수련장): Added a new solo dungeon.
-  - *Requires completion of "Crack in the Martial World Ch. 3: Training of the Blackwind Society" to enter.*
+  - *Requires completion of "Rift in the Realm Chapter 3. Training with the Black Winds" to enter.*
 
 **New Class — "Flame Warden" (염제)**
 - Class > Flame Warden: Added the new class.

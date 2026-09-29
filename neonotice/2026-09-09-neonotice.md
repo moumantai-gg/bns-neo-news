@@ -153,7 +153,7 @@ on the Jin/Lyn Server.*
 | 1 | Lustrous Insignia Chest | 1 |
 | 2 | Lustrous Special Insignia Chest | 1 |
 | 3 | Bound Black Dragon Skill Book Chest (Legendary) | 1 |
-| 4 | Premium Dawncrest Portrait Box (Legendary) | 1 |
+| 4 | High Quality Dawncrest Portrait Chest (Legendary) | 1 |
 
 **EVENT 2. A transfer celebration and Supreme Force milestone gift! (for new/returning accounts)**
 - New/returning Warriors who registered a referrer via 1:1 inquiry and settle
@@ -165,7 +165,7 @@ on the Jin/Lyn Server.*
 | Mission | Mission condition | Reward | Qty |
 |---|---|---|---|
 | Transfer complete | Complete character transfer from the Boost Server to the Jin/Lyn Server | Bound Black Dragon Skill Book Chest (Legendary) | 1 |
-| Target Supreme Force reached | Reach highest Supreme Force 32,500 after transfer | Premium Dawncrest Portrait Box (Legendary) | 1 |
+| Target Supreme Force reached | Reach highest Supreme Force 32,500 after transfer | High Quality Dawncrest Portrait Chest (Legendary) | 1 |
 | | | Sagewood Soul Shield Box | 1 |
 
 - **Reward delivery:** sent sequentially, in the afternoon, after each weekly
@@ -338,7 +338,7 @@ Fortune Box (Pack of 10)," and "Autumn Fortune Box (Pack of 100)" release**
 | Item | Qty |
 |---|---|
 | Bound Secret Skill Book Box | 1 |
-| Premium Dawncrest Portrait Box (Legendary) | 1 |
+| High Quality Dawncrest Portrait Chest (Legendary) | 1 |
 | Bound Black Dragon Skill Book Chest (Legendary) | 1 |
 | Black Dragon Special Portrait Box (Legendary) | 1 |
 | Insignia Slot Expansion Ticket | 1 |
@@ -355,7 +355,7 @@ Fortune Box (Pack of 10)," and "Autumn Fortune Box (Pack of 100)" release**
 | Item | Description |
 |---|---|
 | Bound Secret Skill Book Box | Opening guaranteed-grants your class's Bound Secret Skill Book [Celestial Thunder]. |
-| Premium Dawncrest Portrait Box (Legendary) | Opening grants one of Shadow Lord Rahu, Alternate-Timeline Zulia, Dark Commander Raven King, Jinsoyun, or Master Hong at set odds. |
+| High Quality Dawncrest Portrait Chest (Legendary) | Opening grants one of Shadow Lord Rahu, Alternate-Timeline Zulia, Dark Commander Raven King, Jinsoyun, or Master Hong at set odds. |
 | Bound Black Dragon Skill Book Chest (Legendary) | Opening lets you choose one Legendary Bound Skill Book series box matching your class. |
 | Bound Black Dragon Skill Book Series Chest: by class | Opening grants one of the Legendary Bound Skill Books matching the chosen class line, at set odds. |
 | Black Dragon Special Portrait Box (Legendary) | Opening grants one of 5 Special Legendary Portraits, including Special: Jinsoyun, at set odds. |
@@ -385,24 +385,24 @@ your Inventory (I).*
 | 20 Autumn Coins | Gold Line Jade Fortune Box | 1 | 3×/week per account |
 | 40 Autumn Coins + 1 owned Legendary Bound Skill Book | Bound Black Dragon Skill Book Chest (Legendary) | 1 | 10×/account |
 | 40 Autumn Coins + 1 owned Legendary Skill Book | Black Dragon Skill Book Chest (Legendary) | 1 | 10×/account |
-| 40 Autumn Coins + 1 owned Premium Legendary Portrait | Premium Dawncrest Portrait Box (Legendary) | 1 | 10×/account |
+| 40 Autumn Coins + 1 owned High Quality Legendary Portrait | High Quality Dawncrest Portrait Chest (Legendary) | 1 | 10×/account |
 | 5 Autumn Coins | Lucky Gold Coin Box | 1 | None |
 | 55 Autumn Coins | Nostalgic Journey Costume Set Box | 1 | None |
 | 30 Autumn Coins | Wide Pants Costume Box | 1 | None |
 | 30 Autumn Coins | Cargo Pants Box | 1 | None |
 | 45 Autumn Coins | Hwaeumjeonhoe | 1 | None |
-| 100 Autumn Coins | True Land Illusion Weapon Selection Box | 1 | None |
-| 30 Autumn Coins | Blackwind Society Emote | 1 | None |
-| 30 Autumn Coins | Dam Hwa-rin Emote | 1 | None |
-| 30 Autumn Coins + 1 Soul Pass Costume Coin | Ganghoyurang | 1 | None |
-| 20 Autumn Coins + 1 Soul Pass Costume Coin | Ganghoyurang Headpiece | 1 | None |
-| 20 Autumn Coins + 1 Soul Pass Costume Coin | Ganghoyurang Costume Ornament | 1 | None |
+| 100 Autumn Coins | True Realm Illusion Weapon Selection Chest | 1 | None |
+| 30 Autumn Coins | Black Winds Animation | 1 | None |
+| 30 Autumn Coins | Dam Hwa-rin Animation | 1 | None |
+| 30 Autumn Coins + 1 Soul Pass Costume Coin | Wandering Warrior | 1 | None |
+| 20 Autumn Coins + 1 Soul Pass Costume Coin | Wandering Warrior Head Adornment | 1 | None |
+| 20 Autumn Coins + 1 Soul Pass Costume Coin | Wandering Warrior Adornment | 1 | None |
 
 *The exchange list above is available until before the October 7, 2026
 regular maintenance.*
-*The "Premium Legendary Portrait" list means Shadow Lord Rahu, Alternate-Timeline
+*The "High Quality Legendary Portrait" list means Shadow Lord Rahu, Alternate-Timeline
 Zulia, Dark Commander Raven King, Jinsoyun, and Master Hong.*
-*Ganghoyurang, Ganghoyurang Headpiece, and Ganghoyurang Costume Ornament,
+*Wandering Warrior, Wandering Warrior Head Adornment, and Wandering Warrior Adornment,
 exchanged with the Soul Pass Costume Coin (usable until before the September
 23, 2026 regular maintenance), are themselves available until before the
 September 23, 2026 regular maintenance.*
@@ -419,12 +419,12 @@ September 23, 2026 regular maintenance.*
 | Nostalgic Journey Costume Set Box | Opening grants Nostalgic Journey, Nostalgic Journey Headpiece, and Nostalgic Journey Faceplate. |
 | Wide Pants Costume Box | Opening grants Wide Pants. |
 | Cargo Pants Box | Opening grants Cargo Pants. |
-| True Land Illusion Weapon Selection Box | Opening lets you choose either a True Demon-Sealing Fire Spirit Illusion Weapon Box or a True Koldrak's Illusion Weapon Box. |
+| True Realm Illusion Weapon Selection Chest | Opening lets you choose either a True Demon-Sealing Fire Spirit Illusion Weapon Box or a True Koldrak's Illusion Weapon Box. |
 
 *Nostalgic Journey set, Wide Pants, Cargo Pants + Hwaeumjeonhoe — all
 wearable on any character; Marketplace: No, NPC sale: Yes, Salvage: Yes,
 Tailor: Yes.*
-*Ganghoyurang set — wearable on any character; Marketplace: No, NPC sale: No,
+*Wandering Warrior set — wearable on any character; Marketplace: No, NPC sale: No,
 Salvage: No, Tailor: Yes.*
 
 **[Transmute]**
