@@ -23,7 +23,7 @@ announce the details of the update carried out on October 14.
 **Dawncrest Isle > Ashewind Cave**
 
 - Adjusted the Challenge reward conditions of the dungeon.
-- Fixed an issue where the boss NPC M-ao's "Phantom Smash" and "Awakened Phantom Smash" could be resisted.
+- Fixed an issue where the boss NPC Ghost Yomio's "Phantom Smash" and "Awakened Phantom Smash" could be resisted.
 
 **Dawncrest Isle > Moonrise Tourney Hall**
 

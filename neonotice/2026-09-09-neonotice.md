@@ -262,7 +262,7 @@ features.*
 | Bound Black Dragon Skill Book Chest (Legendary) | 1 | Opening lets you choose one Legendary Bound Skill Book series box matching your class; opening that series box grants one of its Legendary Bound Skill Books at set odds. |
 | Faded Fusion Mantra Stone: Suh | 15 | Usable as a fusion material for Mantra Stone: Suh; doesn't apply its Mantra effect if equipped in combination with another Mantra Stone. |
 | Sagewood Soul Shield Box | 1 | Opening grants one of 8 Sagewood Soul Shields at set odds. |
-| Blazing Dawncrest Soul Core Box of the Leap | 1 | Opening grants one of the Blazing Grand Fist / Blazing Bibong / Blazing Barakal / Blazing M-ao / Blazing Muran Soul Core boxes at set odds. |
+| Blazing Dawncrest Soul Core Box of the Leap | 1 | Opening grants one of the Blazing Grand Fist / Blazing Bibong / Blazing Barakal / Blazing Ghost Yomio / Blazing Muran Soul Core boxes at set odds. |
 | [NEO limited] Sacred/Dawncrest Soul Badge Fragment Selection Box | 2 | Opening grants your choice of 20x [NEO] Sacred Soul Badge Fragments or 5x Dawncrest Soul Badge Fragments. |
 | [Specialization limited] Mystic Water | 50 | Used to enhance Soul/Mystic Badges [Specialization]. |
 | Earthseers Premium Revival Charm | 10 | Revives the character on Near Death or Death. |
