@@ -62,26 +62,26 @@ We thank all our customers who love Blade & Soul NEO, and would like to announce
 
 **Class > Blade Master**
 
-- Fixed an issue where "x2" was displayed in the area tooltip of the Ancient-grade "Heavenly Slasher" skill.
-- Fixed an issue where "x2" was displayed in the area tooltip of the Ancient-grade "Thunder Drake Slash" skill.
+- Fixed an issue where "x2" was displayed in the area tooltip of the Mythical-grade "Heavenly Slasher" skill.
+- Fixed an issue where "x2" was displayed in the area tooltip of the Mythical-grade "Thunder Drake Slash" skill.
 - Fixed an issue where Skill Enhancement Points could not be applied after transferring the "Five Point Strike: Draw Stance" skill.
 - Fixed an issue where, without transferring the "Celestial Thunder" skill, using the Superior-grade "Dragontongue" skill under the "Black Dragon" buff stacked the "Talus Dungeon" effect.
 
 **Class > Kung Fu Fighter**
 
-- Fixed an issue where "x2" was displayed in the area tooltip of the Ancient-grade "Tiger Strike" skill.
+- Fixed an issue where "x2" was displayed in the area tooltip of the Mythical-grade "Tiger Strike" skill.
 
 **Class > Force Master**
 
-- Fixed an issue where "x2" was displayed in the area tooltip of the Ancient-grade "Blazing Beam" skill.
+- Fixed an issue where "x2" was displayed in the area tooltip of the Mythical-grade "Blazing Beam" skill.
 
 **Class > Summoner**
 
-- Fixed an issue where "x2" was displayed in the area tooltip of the Ancient-grade "Super Sunflower" skill.
+- Fixed an issue where "x2" was displayed in the area tooltip of the Mythical-grade "Super Sunflower" skill.
 
 **Class > Flame Warden**
 
-- Fixed an issue where "x2" was displayed in the area tooltip of the Ancient-grade "Raging Dragon Slash" skill.
+- Fixed an issue where "x2" was displayed in the area tooltip of the Mythical-grade "Raging Dragon Slash" skill.
 
 ### Dungeons
 

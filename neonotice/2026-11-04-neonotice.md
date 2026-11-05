@@ -73,7 +73,7 @@ A chance to obtain Legendary Special Portraits, Awakened Special Insignia and mo
 
 | Item | Description |
 |---|---|
-| Legendary Skill Book Fragment | A material required to attempt Legendary Skill Book, Celestial Thunder and Ancient Skill Book transmutations. |
+| Legendary Skill Book Fragment | A material required to attempt Legendary Skill Book, Celestial Thunder and Mythical Skill Book transmutations. |
 | Sovereign Portrait (Legendary) | Can only be used as a material for Legendary Portrait fusion; it cannot be used for Bonds or Collections. |
 | Faded Fusion Mantra Stone: Hae | Can be used as a material for fusing Mantra Stone: Hae. Even if equipped in combination with other Mantra Stones, its Mantra effect is not applied. |
 | Bound Darkstorm Skill Book Chest (Legendary) | On opening, you select and obtain 1 of the Legendary Bound Skill Book line chests that match your character's class. Opening a class-specific Bound Darkstorm Skill Book line chest gives 1 of the Legendary Bound Skill Books of the selected character's class line at a set probability. |
