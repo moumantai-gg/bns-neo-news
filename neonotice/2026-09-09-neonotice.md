@@ -483,7 +483,7 @@ attempts.*
 | Item | Description |
 |---|---|
 | Timestream Selection Chest | Opening lets you choose one of Gorongui, Gorongui's Resolve, Gumuak Mask, Muryongui, Muryongui Headpiece, Muryongui Costume Ornament, Muakui, White Balwaryong Branch, Waryongui, Cheongakui, Cheongakui Headpiece, or Cheongakui Costume Ornament. |
-| Brilliant Insignia Chest | Opening grants one of the Ancient Insignias at set odds. |
+| Brilliant Insignia Chest | Opening grants one of the Mythical Insignias at set odds. |
 | Black Dragon Special Portrait Box (Heroic) | Opening grants one of 13 Special Heroic Portraits, including Special: [the Black Dragon Cult Leader], at set odds. |
 | Awakened Insignia Chest | Opening grants one of Radiant Awakened Attack/Critical Damage Red Insignia Chest, Radiant Awakened Attack/HP Yellow Insignia Chest, or Radiant Awakened Attack/Accuracy Blue Insignia Chest, at set odds. |
 
