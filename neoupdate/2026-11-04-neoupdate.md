@@ -27,10 +27,10 @@ We thank all our customers who love Blade & Soul NEO, and would like to announce
 - The Arena Match individual ranking has ended, so matchmaking can no longer be conducted.
   - *Individual Arena Match sparring is still available.*
 
-**Event Ended > 2 Fast?! Lightfoot Contest**
+**Event Ended > 2 Fast?! Windwalk Race**
 
 - Retired 1 event-related item.
-- Removed the Lightfoot Contest-related quests.
+- Removed the Windwalk Race-related quests.
 
 **Event Ended > Double Mileage Event**
 
@@ -154,7 +154,7 @@ We thank all our customers who love Blade & Soul NEO, and would like to announce
 
 **Client > PC Cafe Exclusive Benefits**
 
-- Fixed an issue where the PC Cafe-exclusive costume disappeared when you returned after using an Arena Match or the Lightfoot Contest while wearing it.
+- Fixed an issue where the PC Cafe-exclusive costume disappeared when you returned after using an Arena Match or the Windwalk Race while wearing it.
 
 ## Neo Servers (Jin, Lyn)
 
